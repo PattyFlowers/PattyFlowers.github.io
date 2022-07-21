@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to Cat from space!
-subtitle: If you don't know where to start, it's probably a good idea to start here :3
+title: "Welcome to Cat from space!"
+subtitle: "If you don't know where to start, it's probably a good idea to start here :3"
 categories: markdown
 tags: [welcome][start][story]
 ---

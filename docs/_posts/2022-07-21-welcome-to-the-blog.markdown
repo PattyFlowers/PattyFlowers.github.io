@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Welcome to Cat from space!"
+subtitle: "If you don't know where to start, it's probably a good idea to start here :3"
 date:   2022-07-21 11:38:42 +0100
 categories: General
-tags: [welcome][start][story]
 ---
 <!-- subtitle: "If you don't know where to start, it's probably a good idea to start here :3" 
-tags: [welcome][start][story]
+tags: [welcome][start][story] -> AFFECTING THE TITLE
 categories: General posts -->
 
 Hello you. Yes, you, wherever and whenever you are reading this post, I would like to thank you for being here, for reading about another human being’s thoughts, fears, dreams, challenges and ideas.

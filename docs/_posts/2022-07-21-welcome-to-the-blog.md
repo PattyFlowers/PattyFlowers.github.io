@@ -2,7 +2,8 @@
 layout: post
 title: "Welcome to Cat from space!"
 subtitle: "If you don't know where to start, it's probably a good idea to start here :3"
-categories: markdown
+date:   2022-07-21 11:38:42 +0100
+categories: General posts
 tags: [welcome][start][story]
 ---
 

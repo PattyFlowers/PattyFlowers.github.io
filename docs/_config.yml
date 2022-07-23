@@ -188,3 +188,10 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
   - jekyll-responsive-image
+
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 2621
+    - width: 4193
+    - width: 6710

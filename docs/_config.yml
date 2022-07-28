@@ -170,6 +170,7 @@ header_pages:
 # Disqus comments
 disqus:
   shortname: "catfromspace"
+comments: true
 
 # Gitment comments
 # gitment:

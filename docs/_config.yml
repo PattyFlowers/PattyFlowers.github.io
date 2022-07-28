@@ -129,7 +129,7 @@ night_mode: "manual"
 # this and add the path to the pages in order as they should show up
 header_pages:
    - home.html
-#   - index.html
+   - index.html
    - archives.html
    - categories.html
    - tags.html

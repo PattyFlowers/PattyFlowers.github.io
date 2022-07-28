@@ -129,12 +129,13 @@ night_mode: "manual"
 # this and add the path to the pages in order as they should show up
 header_pages:
    - home.html
+   - index.html
    - archives.html
    - categories.html
+   - tags.html
    - shop.html
    - about.html
-     # - tags.html
-    #  - index.html
+   #If I delete some of these, some of the links break and don't appear on main site
 
 # Page default value
 # defaults:

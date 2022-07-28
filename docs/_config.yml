@@ -135,7 +135,8 @@ header_pages:
    - tags.html
    - shop.html
    - about.html
-   #If I delete some of these, some of the links break and don't appear on main site
+
+# If I delete some of these, some of the links break and don't appear on main site
 
 # Page default value
 # defaults:

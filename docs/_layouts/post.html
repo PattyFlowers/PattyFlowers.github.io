@@ -62,7 +62,7 @@ sidebar:
       {%- if page.comments != false -%}
 
       {%- if site.disqus.shortname -%}
-      {% include disqus.html %}
+      {% include extensions/comments/disqus.html %}
       {%- endif -%}
 
       {%- if site.gitment.username -%}

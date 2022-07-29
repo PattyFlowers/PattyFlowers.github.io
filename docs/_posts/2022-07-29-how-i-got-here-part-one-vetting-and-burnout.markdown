@@ -5,7 +5,7 @@ categories: General Story Veterinary
 tags: ["story", "mental health", "burnout", "veterinary"]
 ---
 
-This is quite a long post divided in several chapters, so if you are looking to read the whole thing on one go, please go to the toilet first, get a cup of coffee and sit down in a comfy place before starting to read :)
+This is quite a long post divided in several chapters, so if you are looking to read the whole thing in one go, please go to the toilet first, get a cup of coffee and sit down in a comfy place before starting to read :)
 
 My story started as a kid that, like many other kids, loved animals. Thus, **I had always wanted to become a vet** to be able to help them and be around them as much as possible. This dream got me through my school, high-school and university years, and once I was qualified I landed a job almost immediately. After a few years practising in Spain in a fairly quiet practice and some odd locuming in the UK, I felt I was lacking something. It did not seem like I was learning or progressing much in my career, so I decided to start a surgical certificate and, almost at the same time, found a job advert from a practice in the UK that I really liked the look of. So I applied and they said yes, and before I new it, I was living and working there.
 

@@ -11,7 +11,7 @@ My story started as a kid that, like many other kids, loved animals. Thus, **I h
 
 ![Veterinary surgery sign by Matt Seymour](pictures/matt-seymour-9htTVAs3rAM-unsplash.jpg)
 
-[matt-seymour-9htTVAs3rAM-unsplash](/assets/matt-seymour-9htTVAs3rAM-unsplash_fdduw9okj.jpg)
+![matt-seymour-9htTVAs3rAM-unsplash](/assets/matt-seymour-9htTVAs3rAM-unsplash_fdduw9okj.jpg)
 
 I was very happy and excited about this opportunity that life was giving me, and **I worked very hard for very long hours**. I had a lot of clinical support from my fellow senior and junior colleagues as well as the nurses and we all got along really well and worked as a team, and I frequently thought I was very lucky for this.
 

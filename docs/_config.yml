@@ -195,6 +195,9 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
   - jekyll-responsive-image
+  
+gems:
+  - jekyll-srcset
 
 responsive_image:
   template: _includes/responsive-image.html

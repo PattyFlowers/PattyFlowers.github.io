@@ -23,4 +23,4 @@ If I was burnout before lockdown, that was a different level, and it drove me to
 
 We are wrapping up here for now, but if you would like to know how this story continues, please go to the [next post of this series!][]
 
-![White cat by Remi Remino](file://pictures/remi-remino-E9kVmtiqqGE-unsplash.jpg)
+![White cat by Remi Remino](file://remi-remino-E9kVmtiqqGE-unsplash.jpg)

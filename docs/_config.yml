@@ -135,8 +135,7 @@ header_pages:
    - archives.html
    - categories.html
    - tags.html
-   - shop.html
-   - about.html
+   - about.markdown
 
 # If I delete some of these, some of the links break and don't appear on main site
 

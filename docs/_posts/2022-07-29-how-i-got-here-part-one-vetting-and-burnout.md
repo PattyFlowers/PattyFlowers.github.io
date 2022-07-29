@@ -11,7 +11,6 @@ My story started as a kid that, like many other kids, loved animals. Thus, **I h
 
 ![Veterinary surgery sign by Matt Seymour](matt-seymour-9htTVAs3rAM-unsplash.jpg)
 
-![matt-seymour-9htTVAs3rAM-unsplash](/assets/images/matt-seymour-9htTVAs3rAM-unsplash.jpg)
 
 I was very happy and excited about this opportunity that life was giving me, and **I worked very hard for very long hours**. I had a lot of clinical support from my fellow senior and junior colleagues as well as the nurses and we all got along really well and worked as a team, and I frequently thought I was very lucky for this.
 
@@ -25,4 +24,6 @@ If I was burnout before lockdown, that was a different level, and it drove me to
 
 We are wrapping up here for now, but if you would like to know how this story continues, please go to the [next post of this series!][]
 
-![White cat by Remi Remino](file://remi-remino-E9kVmtiqqGE-unsplash.jpg)
+![White cat by Remi Remino](remi-remino-E9kVmtiqqGE-unsplash.jpg)
+
+<img src="remi-remino-E9kVmtiqqGE-unsplash.jpg" alt="drawing" width="200"/>

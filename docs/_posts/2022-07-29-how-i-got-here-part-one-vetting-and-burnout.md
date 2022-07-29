@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I got here, part 1\: Vetting and burnout
+title: How I got here, part 1 - Vetting and burnout
 categories: How I got here
 tags: ["story", "mental health", "burnout", "veterinary"]
 ---

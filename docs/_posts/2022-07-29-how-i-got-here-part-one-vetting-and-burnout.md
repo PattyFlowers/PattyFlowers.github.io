@@ -9,7 +9,7 @@ This is quite a long post divided in several chapters, so if you are looking to 
 
 My story started as a kid that, like many other kids, loved animals. Thus, **I had always wanted to become a vet** to be able to help them and be around them as much as possible. This dream got me through my school, high-school and university years, and once I was qualified I landed a job almost immediately. After a few years practising in Spain in a fairly quiet practice and some odd locuming in the UK, I felt I was lacking something. It did not seem like I was learning or progressing much in my career, so I decided to start a surgical certificate and, almost at the same time, found a job advert from a practice in the UK that I really liked the look of. So I applied and they said yes, and before I new it, I was living and working there.
 
-![Veterinary surgery sign by Matt Seymour](/assets/matt-seymour-9htTVAs3rAM-unsplash.jpg)
+![Veterinary surgery sign by Matt Seymour](./pictures/matt-seymour-9htTVAs3rAM-unsplash.jpg)
 
 I was very happy and excited about this opportunity that life was giving me, and **I worked very hard for very long hours**. I had a lot of clinical support from my fellow senior and junior colleagues as well as the nurses and we all got along really well and worked as a team, and I frequently thought I was very lucky for this.
 
@@ -23,4 +23,4 @@ If I was burnout before lockdown, that was a different level, and it drove me to
 
 We are wrapping up here for now, but if you would like to know how this story continues, please go to the [next post of this series!][]
 
-![White cat by Remi Remino](/assets/remi-remino-E9kVmtiqqGE-unsplash.jpg)!
+![White cat by Remi Remino](./pictures/remi-remino-E9kVmtiqqGE-unsplash.jpg)!

@@ -25,4 +25,4 @@ We are wrapping up here for now, but if you would like to know how this story co
 
 ![White cat by Remi Remino](/assets/images/remi-remino-E9kVmtiqqGE-unsplash.jpg)
 
-<p><img src="/assets/images/remi-remino-E9kVmtiqqGE-unsplash.jpg" alt="White cat by Remi Remino" width="300" height="300"></p>
+<p><img src="/assets/images/remi-remino-E9kVmtiqqGE-unsplash.jpg" alt="White cat by Remi Remino" width="300"></p>

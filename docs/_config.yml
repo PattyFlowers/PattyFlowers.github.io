@@ -93,6 +93,8 @@ yat:
 # Custom color as below:
 # theme_color: "#882250"
 
+theme_color: "#353535"
+
 # You can choose a brand color
 # Default brand colors as below:
 # orangered: #ff5100

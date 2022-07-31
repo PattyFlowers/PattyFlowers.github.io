@@ -17,4 +17,6 @@ During the summer months, I had been toying with the idea of trying to find work
 
 After summer, the new COVID wave arrived and were were stuck at home again. I managed to carry on for a while, but feeling like this pandemic was a never-ending prison made my mental health deteriorate again, which led to a second sick-leave and a “phased return to work”. But I had had enough and it was time to move on, so I handed in my resignation letter and felt an immediate relief.
 
+If you would like to continue reading, please follow [this link.](https://www.catfromspace.com/general/story/veterinary/2022/07/31/how-i-got-here-part-four-you-can-always-find-something-better.html)
+
 <p><img src="/assets/images/sixteen-miles-out-TiIvuqNnT4Y-unsplash.png" alt="Envelope with flowers by Sixteen Miles Out" align= centre width="300"></p>

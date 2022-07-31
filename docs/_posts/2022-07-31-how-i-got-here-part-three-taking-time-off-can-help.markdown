@@ -7,7 +7,7 @@ tags: ["story", "mental health", "burnout", "veterinary"]
 
 Once I got convinced by my GP to be signed off, I was initially so for a couple of weeks, and those were two weeks I spent extremely anxious. I wondered how my colleagues would be managing without me, what they would all think of me (I thought they probably hated me for with lots of extra work) and of how much I dreaded going back. 
 
-Despite my low thoughts (anxiety-made, of course), I received tons of beautiful<img src="/assets/images/text-from-colleague.png" alt="Lovely text sent by one of my colleagues" align= right width="300"> and supportive messages from many of my colleagues, as well as a “get better soon” pack. Nobody hated me for being off, they were just worried and wanted me to feel better soon and take as much time as I needed. How could I even think of quitting and leaving such colleagues?.
+Despite my low thoughts (anxiety-made, of course), I received tons of beautiful<img src="/assets/images/text-from-colleague.png" alt="Lovely text sent by one of my colleagues" align= right width="200"> and supportive messages from many of my colleagues, as well as a “get better soon” pack. Nobody hated me for being off, they were just worried and wanted me to feel better soon and take as much time as I needed. How could I even think of quitting and leaving such colleagues?.
 
 My GP also “forced” my workplace to reduce my hours to thirty per week as I had requested when my burnout started, or else he would continue to sign me off. I thought it was quite sad we had to get to that in order for them to take any measures to help.
 

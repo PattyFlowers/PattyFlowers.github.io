@@ -30,3 +30,4 @@ So I booked another GP appointment, and this time he suggested that **perhaps I 
 As you can imagine, I opted for not being signed off that time, and things continued to get worse. Luckily for me, my GP had been clever and caring enough to book a follow-up appointment a few weeks down the line, and then a few weeks after that. It was a relief to be able to talk to him about how I felt, but he also, slowly and carefully, convinced me to accept being signed off. You would think that made things better, but spoiler alert: it did not.
 
 I will continue with this story on the following post of the series, so if you’d like to continue reading, please follow [this link!](https://www.catfromspace.com/general/story/veterinary/2022/07/30/how-i-got-here-part-three-taking-time-off-can-help.html)
+

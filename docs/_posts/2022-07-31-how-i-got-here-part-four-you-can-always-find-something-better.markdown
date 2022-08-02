@@ -17,10 +17,14 @@ In that time, Steps-to-wellbeing got back to me again and **offered me CBT**, wh
 
 So after a while **they moved me to counselling** and I had the loveliest lady listening to how I was feeling and doing. It was **like a conversation with a very knowledgeable friend**, she would give me some advice and explain why some thought and behavioural patterns originated and how to break them. She taught me the importance of “parenting yourself”, or **treating yourself in a similar way you would treat your own son or daughter, with understanding, love and lack of judgement**. We are always very hard and unempathetic when judging ourselves, but very kind and understanding when a friend comes to  us for help or advice, and that is not fair on ourselves. Why is it so difficult to love ourselves? Why do we feel so undeserving of all that love?
 
+<p><img src="/assets/images/hala-al-asadi-lqb0Mqq8RSM-unsplash-min.jpg" alt="Self hug by Hala Al Asadi" align= left width="300"></p>
+
 And here I am now, after a lot of counselling and a lot of pestering myself and my friends with “I don’t know what the hell to do with my life, do I quit being a vet forever? Do I just do something else for a while? Am I even capable of doing something else? Can I even work full time again?”.
 
 I have **finally found the courage to quit my wonderful job and take some time off, in view to start retraining afterwards**. This time, I am going to give **Software development** a go, something completely different, but also something I have been enjoying little bits of over the last couple of years and a career with which I have a lot of support from people close to me.
 
 **Some people will say that it’s a shame I abandon a career that took me such long time and effort to pursue**, someone so vocational and passionate like me, giving up what they love. But like it happens with human relationships, **sometimes it’s not about the amount of love or passion**, but about whether that bond is doing you good and adding to your life or if, on the other hand, is like a life and energy absorbing parasite. I am never going to stop being a vet, but having an alternative career I can pursue means that when I do vet work, it will be because I want to and because I like it, not because I need to do it to survive. And hopefully, that will break the cycle of trauma and anxiety I got myself into.
+
+<p><img src="/assets/images/jon-tyson-srDKOjF3rSY-unsplash-min.jpg" alt="And so I chose to begin again by Jon Tyson" width="400"></p>
 
 If you are going through something similar or have any questions about this experience, please feel free to leave a us comment. I posted this story hoping all my mistakes and all the things I learnt thanks to them would be able to help someone else <3

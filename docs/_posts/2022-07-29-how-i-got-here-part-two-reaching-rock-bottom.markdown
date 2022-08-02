@@ -11,7 +11,7 @@ One of those days I spoke about what I was going through with some of my colleag
 
 This taught me that **having a supportive environment, your friends, colleagues or family and talking to them, is the most valuable weapon we have to fight for our mental-health**. We need to remember that **we are never alone**. Even if you don’t think you have anybody around you, there are helplines and people online that are going or have gone through the same and are willing to listen and help you, as long as you allow them.
 
-<p><img src="/assets/images/priscilla-du-preez-aPa843frIzI-unsplash2.jpg" alt="Two people holding hands by Priscilla du Preez" align="left" width="200"></p>
+<p><img src="/assets/images/priscilla-du-preez-aPa843frIzI-unsplash2.png" alt="Two people holding hands by Priscilla du Preez" align="left" width="200"></p>
 
 So the next day I booked an appointment with my doctor and explained the situation, and he dispensed some antidepressants. But after buying the meds and reading the leaflet, I have to admit I chickened out, and just let a few more months go by.
 

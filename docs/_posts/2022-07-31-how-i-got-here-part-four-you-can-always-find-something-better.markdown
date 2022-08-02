@@ -25,6 +25,6 @@ I have **finally found the courage to quit my wonderful job and take some time o
 
 **Some people will say that it’s a shame I abandon a career that took me such long time and effort to pursue**, someone so vocational and passionate like me, giving up what they love. But like it happens with human relationships, **sometimes it’s not about the amount of love or passion**, but about whether that bond is doing you good and adding to your life or if, on the other hand, is like a life and energy absorbing parasite. I am never going to stop being a vet, but having an alternative career I can pursue means that when I do vet work, it will be because I want to and because I like it, not because I need to do it to survive. And hopefully, that will break the cycle of trauma and anxiety I got myself into.
 
-<p><img src="/assets/images/jon-tyson-srDKOjF3rSY-unsplash-min.jpg" alt="And so I chose to begin again by Jon Tyson" width="400"></p>
+<p><img src="/assets/images/jon-tyson-srDKOjF3rSY-unsplash-min.jpg" alt="And so I chose to begin again by Jon Tyson" width="300"></p>
 
 If you are going through something similar or have any questions about this experience, please feel free to leave a us comment. I posted this story hoping all my mistakes and all the things I learnt thanks to them would be able to help someone else <3

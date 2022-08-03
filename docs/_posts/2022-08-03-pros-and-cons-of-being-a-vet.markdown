@@ -23,7 +23,8 @@ So these are some of the things you should consider if you’re thinking about b
     
 * **Salary for experienced vets is above average**, with a starting salary at around the UK average
 
-* If you are lucky to find a good team (which is usually the case), you get to **share your time with people that have the same passion** for animals and can develop wonderful friendships and a good quality support network.<img src="/assets/images/alexandre-debieve-SEX4KAz9ExQ-unsplash-min.jpg" alt="Old dog by Alexandre Debieve" aligh= right width="200">
+* If you are lucky to find a good team (which is usually the case), you get to **share your time with people that have the same passion** for animals and can develop wonderful friendships and a good quality support network.
+<p><img src="/assets/images/alexandre-debieve-SEX4KAz9ExQ-unsplash-min.jpg" alt="Old dog by Alexandre Debieve" aligh= right width="200"></p>
 
 * If you like **mystery or problem solving**, you will love internal medicine. It can be very challenging to be given a list of symptoms, ask the right questions, find some more clues on the clinical exam and make a list of differential conditions that may be affecting the pet. 
 

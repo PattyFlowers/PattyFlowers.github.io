@@ -104,7 +104,7 @@ theme_color: "#353535"
 brand_color: greenblue
 #
 # Custom color as below:
-brand_color: "#b04ca6"
+brand_color: "#bf68b6"
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift

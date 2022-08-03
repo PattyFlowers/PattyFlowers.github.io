@@ -1,9 +1,10 @@
 ---
 layout: post
 title: How I got here, part 4 - You can always find something better, but it’s also OK to take a step back and start all over again
-categories: General Story Veterinary
+categories: General Story Veterinary Wellbeing
 tags: ["story", "mental health", "burnout", "veterinary"]
 ---
+<p><img src="/assets/images/tiredhedgehog.jpg" alt="Tired Hedgehog by Patty Flowers for Cat from Space" width="400"></p>
 
 So I **left my job and decided to take some time off**. But because I am a bit of a control freak, I kept checking the job adverts and found one that really caught my eye. They offered 20 minutes consultations. “20 minutes??? That must feel like an eternity!” I told myself, after having worked for two years on 10 minutes consultations, which had me rushed off my feet constantly. On the interview, the practice owner seemed to really **care for their employees and their well-being**, so I decided that job was what I needed, even though I hadn’t given myself enough time off to rest and recover. I didn’t want to miss such a good opportunity.
 

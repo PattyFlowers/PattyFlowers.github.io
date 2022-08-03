@@ -5,7 +5,7 @@ date:   2022-08-03
 categories: Veterinary
 ---
 
-<img src="/assets/images/veterinarysurgery.jpg" alt="Veterinary surgery sign by Matt Seymour" align="right" width="300">
+<img src="/assets/images/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash-min.jpg" alt="Stethoscope by Hush Naidoo Jade" width="300">
 
 Are you considering studying veterinary medicine but you are not sure it is for you?
 
@@ -19,7 +19,7 @@ So these are some of the things you should consider if you’re thinking about b
 
     • You have a broad range of jobs you can do with your degree: Small animals, equine, farm animals, pathology, charity work, wildlife, zoo, public sector veterinarian, research, teaching…
 
-    • Being a vet is all about passion for animals, if you are considering getting into this profession for the money or the social recognition, do yourself a favour, DO NOT. What will keep you going is knowing that you are making a difference for animals and their owners, that you are there to help them feel better and prevent them from getting ill.
+    • Being a vet is all about passion for animals, if you are considering getting into this profession for the money or the social recognition, do yourself a favour, DO NOT. What will keep you going is knowing that you are making a difference for animals and their owners, that you are there to help them feel better and prevent them from getting ill. You have the power to improve lives and that is a wonderful thing.
 
     • Salary for experienced vets is above average, with a starting salary at around the UK average
 

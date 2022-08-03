@@ -83,7 +83,7 @@ So these are some of the things you should consider if you’re thinking about b
 
 * Veterinary is **one of the careers with a higher mental health impact**. Depression, anxiety and burnout are extremely common and we have one of the highest rates of suicide. If you are prone to these conditions, I would perhaps consider a different career.
 
-<p><img src="/assets/images/alexander-andrews-iqHBu3dBLZU-unsplash-min.jpg" alt="Hand on tabby cat" width="300"></p>
+<p><img src="/assets/images/alexander-andrews-iqHBu3dBLZU-unsplash-min.jpg" alt="Hand on tabby cat" width="500"></p>
 
 #### Neutral:
 

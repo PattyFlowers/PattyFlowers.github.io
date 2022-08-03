@@ -5,7 +5,7 @@ date:   2022-08-03
 categories: Veterinary
 ---
 
-<img src="/assets/images/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash-min.jpg" alt="Stethoscope by Hush Naidoo Jade" width="300">
+<p><img src="/assets/images/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash-min.jpg" alt="Stethoscope by Hush Naidoo Jade" width="300"></p>
 
 Are you considering studying veterinary medicine but you are not sure it is for you?
 
@@ -20,11 +20,12 @@ So these are some of the things you should consider if you’re thinking about b
     • You have a broad range of jobs you can do with your degree: Small animals, equine, farm animals, pathology, charity work, wildlife, zoo, public sector veterinarian, research, teaching…
 
     • Being a vet is all about passion for animals, if you are considering getting into this profession for the money or the social recognition, do yourself a favour, DO NOT. What will keep you going is knowing that you are making a difference for animals and their owners, that you are there to help them feel better and prevent them from getting ill. You have the power to improve lives and that is a wonderful thing.
+    
 
     • Salary for experienced vets is above average, with a starting salary at around the UK average
 
     • If you are lucky to find a good team (which is usually the case), you get to share your time with people that have the same passion for animals and can develop wonderful friendships and a good quality support network.
-
+<p><img src="/assets/images/alexandre-debieve-SEX4KAz9ExQ-unsplash-min.jpg" alt="Old dog by Alexandre Debieve" aligh= right width="200"></p>
 
     • If you like mystery or problem solving, you will love internal medicine. It can be very challenging to be given a list of symptoms, ask the right questions, find some more clues on the clinical exam and make a list of differential conditions that may be affecting the pet. 
 
@@ -41,7 +42,8 @@ So these are some of the things you should consider if you’re thinking about b
     • In many countries, like the UK, since there is a huge demand for vets, you have a lot of power in choosing and negotiating your own terms on your employment. It will be quite easy to find a job and you are usually able to work part time and still make enough money to live. You can also choose to be a locum vet, being able to decide when and where you work and making more money per day.
 
     • Being a vet can be very rewarding: sometimes you will save or improve lives, you will prevent illnesses and give advice on how to best care for each pet, other times you will end their suffering with euthanasia, but even though it is a difficult decision, some owners will be very grateful to you because but you made that experience easier for them. You may get lovely cards, chocolates or flowers and you will get owners that ask specifically for you each time they bring their pet to the vets.
-      
+<p><img src="/assets/images/markus-winkler-PcKhVNNyEio-unsplash-min.jpg" alt="Puppy in hospital by Markus Winkler" width="300"></p>
+ 
     • You can build truly deep and meaningful relationships with some of your clients, that will trust you and care about you. These kind of clients tend to have a very good effect on our self-confidence and consultations with them can be very enjoyable, almost like catching-up with a good friend.
 
     • You can train to specialise in a particular field you enjoy.
@@ -65,6 +67,8 @@ So these are some of the things you should consider if you’re thinking about b
 
 
     • High physical toll: You have to carry heavy animals around, be on your feet for most of the day, bend your back for operating, etc. After so many hours, believe me, you will be exhausted!
+    
+<p><img src="/assets/images/mulyadi-JeCNRxGLSp4-unsplash-min.jpg" alt="Tired surgeon by Mulyadi Je" aligh= right width="200"></p>     
 
     • High emotional toll: This has been one of the most important factors for me, as an empath and animal lover. You have to deal with the owner’s emotions surrounding their pet as well as their economical concerns, sometimes you will have to euthanise animals because they cannot afford to treat them, some other times people will get angry at you because they do not have the money they need and blame you for it, saying that you are only in for the money. You will find animals that have been abandoned or abused and will see the worst side of human beings. People will complain sometimes about you, either at the practice or in social media.
 
@@ -83,6 +87,8 @@ So these are some of the things you should consider if you’re thinking about b
     • You will make mistakes. Lots of them throughout your career. Some of them you will be able to fix, some others will result in an animal getting really ill or even dying. Sometimes you will have done your best and not made any mistakes and things will still go very wrong. If you don’t want this to seriously affect your mental health you will have to come to terms with the fact that we are humans, we have good and bad days and that everyone makes mistakes, you will need to learn to forgive yourself for this.
 
     • Veterinary is one of the careers with a higher mental health impact. Depression, anxiety and burnout are extremely common and we have one of the highest rates of suicide. If you are prone to these conditions, I would seriously consider a different career.
+
+<p><img src="/assets/images/alexander-andrews-iqHBu3dBLZU-unsplash-min.jpg" alt="Hand on tabby cat" width="300"></p>
 
 
 #### Neutral:

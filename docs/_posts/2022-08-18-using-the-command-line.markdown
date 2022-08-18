@@ -86,7 +86,7 @@ Now that you are able to check and navigate around your folders, it is time to l
 |`cat *file1* *file2* > CombinedFile` | Concatenate | Combines the content of 2 or more files into a new file | `cat 'TextFile' 'OtherTextFile' > 'CombinedTextFile'`
 | `cat *Textfile*`| Concatenate | When used with only one text file, it allows you to display the text directly on the command line|
 | `cat > *TextFile*`| Concatenate| It allows you to create short text documents directly in the terminal, prompting you for text| |
-| `less *TextFile*` | It displays the contents of a text file or a command output one page at a time. Press [here](https://linuxize.com/post/less-command-in-linux/) for a tutorial on how to navigate through the text| |
+| `less *TextFile*` | | It displays the contents of a text file or a command output one page at a time. Press [here](https://linuxize.com/post/less-command-in-linux/) for a tutorial on how to navigate through the text| | |
 |`head -number *file*` | Head | It will output the specified number of lines from the beginning of the file. If the number is empty, it will output 10 lines of text | `head -3 MyFile` or `head MyFile`|
 |`tail *file*`| Tail | It will output the specified number of lines from the end of the file. If the number is empty, it will output 10 lines of text | `tail -3 MyFile` or `tail MyFile`|
 |`file *file*`| File | Outputs the type of the file | `file blog.odt` outputs `blog.odt: OpenDocument Text`|

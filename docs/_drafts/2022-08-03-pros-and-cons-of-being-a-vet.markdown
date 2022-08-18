@@ -3,6 +3,7 @@ layout: post
 title:  "Thinking of becoming a veterinary surgeon? Pros and cons of being a small animal veterinary surgeon."
 date:   2022-08-03
 categories: Veterinary
+tags: ["veterinary", "careers"]
 ---
 
 <p><img src="/assets/images/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash-min.jpg" alt="Stethoscope by Hush Naidoo Jade" width="300"></p>

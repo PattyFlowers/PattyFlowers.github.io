@@ -15,6 +15,9 @@ Ever saw a movie where someone that looked quite nerdy was getting a computer to
 The **command line (or prompt)** is a way to communicate directly with your computer without having to go through the GUI (Graphical User Interface, or all the pretty windows and icons we normally see and click on while using out PC). It is a **very fast and efficient way of working with your computer** and the only way on some of them, and you definitely want to know how to make the best of it if you are considering a career in tech.
 
 # How to open the command line or command prompt
+
+<p><img src="/assets/images/hannah-joshua-46T6nVjRc2w-unsplash (1).jpg" alt="Command key by Hannah Joshua" width="200"></p>
+
 - To access this feature on **Windows**, you can press the **Windows key + X**
 - For **Mac users**, you can press **Command + Space** and **type in “Terminal”**, or pressing F4, locate the “Other” folder and click on “Terminal”.
 - For **Linux users**, it is as simple as pressing **Ctrl + Alt + T**
@@ -110,3 +113,7 @@ For example, if we write the following command `ls *.pdf` we are asking the comp
 `grep *YHQ NumberPlates` will look for a some text that ends in YHQ in the file NumberPlates, whilst `grep 849* Numberplates` will search for some text that begins with 849.
 
 `find . -name "*.pdf" -print` This command will allow you to find files, starting with the current directory, which name ends in '.pdf' and will print them to the command line.
+
+<p><img src="/assets/images/tra-my-BjL7XCugMNY-unsplash.jpg" alt="Cat on keyboard" width="400"></p>
+
+And that is all for today, I hope it wasn't too intense! Inn our next post, we will discover some more advanced commands and concepts regarding the command line, see you then!

@@ -14,7 +14,11 @@ Ever saw a movie where someone that looked quite nerdy was getting a computer to
 
 The **command line (or prompt)** is a way to communicate directly with your computer without having to go through the GUI (Graphical User Interface, or all the pretty windows and icons we normally see and click on while using out PC). It is a **very fast and efficient way of working with your computer** and the only way on some of them, and you definitely want to know how to make the best of it if you are considering a career in tech.
 
-# How to open the command line or command prompt
+
+## How to open the command line or command prompt
+
+<p><img src="/assets/images/hannah-joshua-46T6nVjRc2w-unsplash (1).jpg" alt="Command key by Hannah Joshua" width="200"></p>
+
 - To access this feature on **Windows**, you can press the **Windows key + X**
 - For **Mac users**, you can press **Command + Space** and **type in “Terminal”**, or pressing F4, locate the “Other” folder and click on “Terminal”.
 - For **Linux users**, it is as simple as pressing **Ctrl + Alt + T**
@@ -44,7 +48,8 @@ Note: If the text you are pasting includes the return character at the end of th
 
 <p><img src="/assets/images/tai-bui-393l7SYoM7w-unsplash.jpg" alt="Cat on computer by Tai Bui" width="300"></p>
 
-# Directory operations
+
+## Directory operations
 
 First of all, you will have to **learn how to navigate through the folders** in your computer and make sure you are in the right one while you are working. You will find that many commands cannot be run directly on a particular folder as it doesn’t have the file you are trying to work with, so try not to get frustrated, you will get used to this!
 
@@ -68,7 +73,8 @@ Here is an example of the commands we have learnt so far and what they do:
 
 <p><img src="/assets/images/commandline2.png" alt="Command line examples" width="600"></p>
 
-# Working with files
+## Working with files
+
 Now that you are able to check and navigate around your folders, it is time to learn how to woek with the files you have on your computer.
 
 | Command | Meaning | Description  | Examples |
@@ -80,7 +86,7 @@ Now that you are able to check and navigate around your folders, it is time to l
 |`cat *file1* *file2* > CombinedFile` | Concatenate | Combines the content of 2 or more files into a new file | `cat 'TextFile' 'OtherTextFile' > 'CombinedTextFile'`
 | `cat *Textfile*`| Concatenate | When used with only one text file, it allows you to display the text directly on the command line|
 | `cat > *TextFile*`| Concatenate| It allows you to create short text documents directly in the terminal, prompting you for text| |
-| `less *TextFile*` | It displays the contents of a text file or a command output one page at a time. Press [here](https://linuxize.com/post/less-command-in-linux/) for a tutorial on how to navigate through the text| |
+| `less *TextFile*` | | It displays the contents of a text file or a command output one page at a time. Press [here](https://linuxize.com/post/less-command-in-linux/) for a tutorial on how to navigate through the text| | |
 |`head -number *file*` | Head | It will output the specified number of lines from the beginning of the file. If the number is empty, it will output 10 lines of text | `head -3 MyFile` or `head MyFile`|
 |`tail *file*`| Tail | It will output the specified number of lines from the end of the file. If the number is empty, it will output 10 lines of text | `tail -3 MyFile` or `tail MyFile`|
 |`file *file*`| File | Outputs the type of the file | `file blog.odt` outputs `blog.odt: OpenDocument Text`|
@@ -95,12 +101,13 @@ Now that you are able to check and navigate around your folders, it is time to l
 Switches or flags are a combination of a hyphon and a letter that we can use to change the functionality of the commands. You can use several flags on a single command, and instead of writing `ls -l -A` you can also combine them: `ls -lA`
 
 Here are some examples using the commands we already know: 
-| Command with flag| Description  |
+
+| Command with flag | Description  |
 |---------|-----------------|
 |`rm -i`| (interactive) Will prompt for confirmation that you want to delete each file, useful to delete some files but not others.| |
- `rm -f`|  Will remove every file even if protected, **do not try it at home!**|
- |`grep -i` |Case insensitive search|
- |`ls -lA`| You can use it to display all directories including hidden ones. |
+|`rm -f`|  Will remove every file even if protected, **do not try it at home!**|
+|`grep -i` |Case insensitive search|
+|`ls -lA`| You can use it to display all directories including hidden ones. |
 
 ### Wildcards
 When using the command line and handling lots of different files, it is very useful to be able to select only the files we want to see, and that is why we will use an asterisc ('*') as a wildcard. 
@@ -110,3 +117,7 @@ For example, if we write the following command `ls *.pdf` we are asking the comp
 `grep *YHQ NumberPlates` will look for a some text that ends in YHQ in the file NumberPlates, whilst `grep 849* Numberplates` will search for some text that begins with 849.
 
 `find . -name "*.pdf" -print` This command will allow you to find files, starting with the current directory, which name ends in '.pdf' and will print them to the command line.
+
+<p><img src="/assets/images/tra-my-BjL7XCugMNY-unsplash.jpg" alt="Cat on keyboard" width="400"></p>
+
+And that is all for today, I hope it wasn't too intense! Inn our next post, we will discover some more advanced commands and concepts regarding the command line, see you then!

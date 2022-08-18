@@ -18,13 +18,14 @@ Please, **bear in mind that a resource that wasn’t particularly helpful to me 
 
 At the beginning, when I was exploring the different languages available, I decided to give **Python** a go, as it seemed very popular, versatile and easy to learn.
 
-If you are interested on any of these resources, please press the image to be redirected to their website!
+If you are interested on any of these resources, please press the image to be redirected to their website. I will not get any commision for this, it is just for your own convenience :)
 
 <a href="https://www.udemy.com/">
     <img src="/assets/images/udemy.png" alt="Udemy logo" width="200">
 </a>
 
 My first baby steps consisted of getting a lot of **Udemy courses**, mainly video based. This was a **relatively low cost option** (around £5 to £30 each), but I must admit that the video format didn’t quite work for me. It meant that it took quite a long time to go through the videos and I would have to stop them every few seconds to do an exercise or because I hadn't quite caught what the teacher was saying. In any case, I don’t think I dedicated enough time to these courses to do a full review on them, but that was my experience as far as it went. They were good quality materials and easily accessible, just not the right kind for me (but they may be for you!).
+
 
 <a href="https://hyperskill.org">
     <img src="/assets/images/jetbrains.svg" alt="Jetbrains logo" width="250">
@@ -33,6 +34,7 @@ My first baby steps consisted of getting a lot of **Udemy courses**, mainly vide
 A friend of mine recommended **Jetbrains Academy** (hyperskill.org) and I decided to give it a go. Being referred by a friend meant that you get a few months free, which are extended if you finish one of their projects. In total, I think I got around 6 months of using the platform for free, which is usually enough to learn the basics. After that, the **subscription costs around £250 a year** I believe. Advantages of this platform is that, unlike videos, **you receive a lot of feedback** and are constantly practising what you learn. Feedback is considered one of the most important learning tools, as it helps you figure out what areas you need to put some more effort on and what you can do to improve, as well as keeping you motivated. They give you some theory and walk you through the basics and then they set problems for you to solve. Once you finish, you can check other people’s solutions and learn about best practices or other clever ways of solving the problem. I think from all the resources I have tried so far, this was one of my favourites.
 
 Once I was feeling a bit more confident with my Python writing, I decided to go ahead and **try to write a slightly more complicated script**, and I managed! This is obviously something free to try, that gives you a more realistic view of what being a programmer will consist of (let me tell you, a lot of googling, debugging and thinking the thing you are trying to build will never work!).
+
 
 <a href="https://www.theodinproject.com">
     <img src="/assets/images/theodinprojecttransparent.png" alt="The Odin Project logo" width="250">
@@ -48,11 +50,13 @@ As you probably know, there are quite a few **different learning styles** and ev
 
 Before applying for their interview, they asked me to complete the **Codeacademy** Ruby course. Codeacademy gives you some theory and easy exercises to practice the basics of the chosen language, and it was quite good as an introduction to Ruby which can be completed in around 15 hours. Don’t expect to finish being able to come up with very creative solutions, but it’s a decent place to start.
 
+
 <a href="https://www.sololearn.com">
     <img src="/assets/images/SoloLearn.svg.png" alt="Sololearn logo" width="250">
 </a>
 
 I used the mobile app **Sololearn** while I was learning Ruby in Codeacademy as a way to review and consolidate some concepts. It is one of the most complete coding apps that I have found so far, and although it is not good enough as a primary resource, it is very convenient to complement your learning on the go.
+
 
 <a href="https://www.codewars.com">
     <img src="/assets/images/codewars.png" alt="Codewars logo" width="100">

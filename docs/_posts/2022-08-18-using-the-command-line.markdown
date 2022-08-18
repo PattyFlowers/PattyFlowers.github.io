@@ -14,7 +14,8 @@ Ever saw a movie where someone that looked quite nerdy was getting a computer to
 
 The **command line (or prompt)** is a way to communicate directly with your computer without having to go through the GUI (Graphical User Interface, or all the pretty windows and icons we normally see and click on while using out PC). It is a **very fast and efficient way of working with your computer** and the only way on some of them, and you definitely want to know how to make the best of it if you are considering a career in tech.
 
-# How to open the command line or command prompt
+
+## How to open the command line or command prompt
 
 <p><img src="/assets/images/hannah-joshua-46T6nVjRc2w-unsplash (1).jpg" alt="Command key by Hannah Joshua" width="200"></p>
 
@@ -47,7 +48,8 @@ Note: If the text you are pasting includes the return character at the end of th
 
 <p><img src="/assets/images/tai-bui-393l7SYoM7w-unsplash.jpg" alt="Cat on computer by Tai Bui" width="300"></p>
 
-# Directory operations
+
+## Directory operations
 
 First of all, you will have to **learn how to navigate through the folders** in your computer and make sure you are in the right one while you are working. You will find that many commands cannot be run directly on a particular folder as it doesn’t have the file you are trying to work with, so try not to get frustrated, you will get used to this!
 
@@ -71,7 +73,8 @@ Here is an example of the commands we have learnt so far and what they do:
 
 <p><img src="/assets/images/commandline2.png" alt="Command line examples" width="600"></p>
 
-# Working with files
+## Working with files
+
 Now that you are able to check and navigate around your folders, it is time to learn how to woek with the files you have on your computer.
 
 | Command | Meaning | Description  | Examples |

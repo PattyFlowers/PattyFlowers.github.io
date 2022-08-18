@@ -101,12 +101,13 @@ Now that you are able to check and navigate around your folders, it is time to l
 Switches or flags are a combination of a hyphon and a letter that we can use to change the functionality of the commands. You can use several flags on a single command, and instead of writing `ls -l -A` you can also combine them: `ls -lA`
 
 Here are some examples using the commands we already know: 
-| Command with flag| Description  |
+
+| Command with flag | Description  |
 |---------|-----------------|
 |`rm -i`| (interactive) Will prompt for confirmation that you want to delete each file, useful to delete some files but not others.| |
- `rm -f`|  Will remove every file even if protected, **do not try it at home!**|
- |`grep -i` |Case insensitive search|
- |`ls -lA`| You can use it to display all directories including hidden ones. |
+|`rm -f`|  Will remove every file even if protected, **do not try it at home!**|
+|`grep -i` |Case insensitive search|
+|`ls -lA`| You can use it to display all directories including hidden ones. |
 
 ### Wildcards
 When using the command line and handling lots of different files, it is very useful to be able to select only the files we want to see, and that is why we will use an asterisc ('*') as a wildcard. 

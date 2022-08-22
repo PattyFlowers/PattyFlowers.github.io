@@ -104,7 +104,7 @@ Here are some examples using the commands we already know:
 
 | Command with flag | Description  |
 |---------|-----------------|
-|`rm -i`| (interactive) Will prompt for confirmation that you want to delete each file, useful to delete some files but not others.| |
+|`rm -i`| (interactive) Will prompt for confirmation that you want to delete each file, useful to delete some files but not others.|
 |`rm -f`|  Will remove every file even if protected, **do not try it at home!**|
 |`grep -i` |Case insensitive search|
 |`ls -lA`| You can use it to display all directories including hidden ones. |

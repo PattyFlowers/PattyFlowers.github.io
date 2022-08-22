@@ -109,7 +109,7 @@ Here are some examples using the commands we already know:
 |`grep -i` |Case insensitive search|
 |`ls -lA`| You can use it to display all directories including hidden ones. |
 
-### Wildcards
+## Wildcards
 When using the command line and handling lots of different files, it is very useful to be able to select only the files we want to see, and that is why we will use an asterisc ('*') as a wildcard. 
 
 For example, if we write the following command `ls *.pdf` we are asking the computer to list only the pdf files.

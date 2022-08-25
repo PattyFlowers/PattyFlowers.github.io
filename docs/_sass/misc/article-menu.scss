@@ -3,21 +3,21 @@
  */
 
 .post-menu {
-  padding-left: 20px;
-  min-width: 100px;
-  max-width: 130px;
+  padding-left: 0px;
+  min-width: 0px;
+  max-width: 0px;
 
   .post-menu-title {
     font-size: $base-font-size * 1;
-    margin-bottom: 10px;
-    font-weight: 50;
+    margin-bottom: 0px;
+    font-weight: 00;
     color: #222;
   }
 
   .post-menu-content {
     ul {
-      border-left: 1px solid #e9ecef;
-      $indent: $base-font-size / 3;
+      border-left: 0px solid #e9ecef;
+      $indent: $base-font-size / 0;
       $active-bgcolor: #ecebec;
 
       @for $i from 2 to 7 {
@@ -30,8 +30,8 @@
 
       a {
         display: flex;
-        padding: 2px 8px;
-        color: darken($text-color, 10%);
+        padding: 0px 0px;
+        color: darken($text-color, 0%);
 
         * {
           pointer-events: none;
@@ -39,18 +39,18 @@
 
         &:hover {
           text-decoration: none;
-          color: lighten($text-color, 20%)!important;
+          color: lighten($text-color, 0%)!important;
         }
       }
 
       .active {
         background-color: $active-bgcolor;
         transition: background 0.5s;
-        border-left: 2px solid #202020;
-        margin-left: -2px;
+        border-left: 0px solid #202020;
+        margin-left: 0px;
 
         &:hover {
-          background-color: lighten($active-bgcolor, 2%);
+          background-color: lighten($active-bgcolor, 0%);
         }
 
         a {

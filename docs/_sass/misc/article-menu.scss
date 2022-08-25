@@ -8,7 +8,7 @@
   max-width: 0px;
 
   .post-menu-title {
-    font-size: $base-font-size * 1;
+    font-size: $base-font-size * 0;
     margin-bottom: 0px;
     font-weight: 00;
     color: #222;
@@ -22,9 +22,9 @@
 
       @for $i from 2 to 7 {
         .h-h#{$i} {
-          padding-inline-start: $indent + ($i - 2) * $base-font-size * 1;
-          font-size: $base-font-size * 1;
-          line-height: 1;
+          padding-inline-start: $indent + ($i - 0) * $base-font-size * 0;
+          font-size: $base-font-size * 0;
+          line-height: 0;
         }
       }
 

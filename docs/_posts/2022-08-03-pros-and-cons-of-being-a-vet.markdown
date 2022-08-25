@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thinking of becoming a veterinary surgeon? Pros and cons of being a small animal veterinary surgeon."
+title:  "Thinking of becoming a veterinary surgeon? Pros and cons of being a small animal vet."
 date:   2022-08-03
 categories: Veterinary
 tags: ["veterinary", "careers"]

@@ -42,9 +42,9 @@ We have thousands of combinations of different commands, and you can play and ex
 
 # Permissions
 
-I am sure you have come accross with a window on your computer asking you for administrator permission when installing a new program. This is because there are different kinds of permissions to access or modify files, and I will show you how to see this permissions and work with them.
+I am sure you have come across with a window on your computer asking you for administrator permission when installing a new program. This is because there are different kinds of permissions to access or modify files, and I will show you how to see this permissions and work with them.
 
-There are three types of classes for each file within a unix-based system, and each of this classess has three different permissions: read, write and execute.
+There are three types of classes for each file within a unix-based system, and each of this classes has three different permissions: read, write and execute.
 
 * Class "User": Every file in our system has one and only one user, which is the owner of the file. 
 * Class "Group": Permissions given to a group of users. Every user can belong to several groups of users.
@@ -65,9 +65,9 @@ Within the circle you can see the permissions for two files. It is quite difficu
 
 The format in which this permissions are written is as follows: Type of file + User permissions(read,write,execute or rwx) + Group permissions(read, write, execute or rwx) + Others permissions(read, write, execute or rwx). 
 
-On the first line we see `dwrxrwxrwx`: the "d" means that the file is a directory. The first `wrx` after it would be the "User permissions", the fact that the three letters are pressent means that the "User" has the three permissions (read, write and execute) over that file in particular. The same happens with the "Group" and the "Others" permissions, you can see that they are also there: `d` `rwx` `rwx` `rwx`
+On the first line we see `dwrxrwxrwx`: the "d" means that the file is a directory. The first `wrx` after it would be the "User permissions", the fact that the three letters are present means that the "User" has the three permissions (read, write and execute) over that file in particular. The same happens with the "Group" and the "Others" permissions, you can see that they are also there: `d` `rwx` `rwx` `rwx`
 
-Now, lets have a look at the second file, we can see: `-rw-rw-r--`. The first hyphon means that the file is not one of the main type files so it is not recognised. Then we have the "User" permissions `rw-`, here we see that the execute permission (x) is not there. The same happens for the "Group" class. For the "Others" class, the only permission we have is to read the file (r)
+Now, lets have a look at the second file, we can see: `-rw-rw-r--`. The first hyphen means that the file is not one of the main type files so it is not recognised. Then we have the "User" permissions `rw-`, here we see that the execute permission (x) is not there. The same happens for the "Group" class. For the "Others" class, the only permission we have is to read the file (r)
 
 ## How to change permissions
 
@@ -90,10 +90,32 @@ But you need to be extremely careful when you are making changes on the computer
 To run a particular command as a superuser, you only have to type the `sudo` prefix and write the superuser password as required. 
 For example, if you need to install a program and need Superuser privileges you would write `sudo exampleProgram install`
 
-# Environment
+# Environmental variables and profile files
+
+<p><img src="/assets/images/angela-benito-WgGJjGN4_ck-unsplash.jpg" alt="Forest by Angela Benito" width="300"></p>
 
 If you are going on a walk in the forest and I asked you what your environment looks like, you would describe the trees and animals, the path and what the air smells like, but also in which county or estate and country it is located.
 
 The same way, a computer has an environment it works within. We can have a peak at what we call "Environmental variables" (or "env var" to make it shorter), by using the command `env`.
 
+For example, this is the environment on my computer:
 <p><img src="/assets/images/environment.png" alt="Example of the output of the command env" width="500"></p>
+
+You can see that every line consists of a key-value pair, for example on the first line, it would be GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screend0f938ca_4824_460b_80bc_8413291936b9. "GNOME_TERMINAL_SCREEN" would be the **key** and /org/gnome/Terminal/screend0f938ca_4824_460b_80bc_8413291936b9 would be the **value**.
+
+Every single program you run on your computer has access to some of this env vars, which helps it understand the environment it is working in. If you want to find any single environmental variable, you can use the command `echo $ENV_VAR` (ENV_VAR reffers to the key we talked about, for example `echo $HOME` or `echo $GNOME_TERMINAL_SCREEN`).
+
+Unfortunately, environmental variables only last until the end of the current shell session, and then they disappear. If we want these variables to be present for all our sessions, we will need to use profile files.
+
+Profile files are files that exist in your home directory and dictate what your environment will look like when you and start a shell session. The shell reads it if it is present or skips it otherwise. Some things that these "Profile files" do would include setting environmental variables or setting PATH variables.
+
+For clarification, a shell is a program that reads, understands and executes the commands the user enters in the computer. It is sometimes also called an interpreter.
+
+Lets create a new env var with the following command: `export PLANET=earth`, and verify it exists in your computer with the command `echo $PLANET`. If you now open a new terminal window and try running `echo $PLANET` again, you will see that it is nowhere to be found, this is because it is an environmental variable.
+
+To avoid this, we can run the following commands:
+* Zsh: echo "export PLANET=earth" >> ~/.zshrc
+* Bash: echo "export PLANET=earth" >> ~/.bash_profile
+
+This will create a "permanent" environmental variable. Now if you open a new terminal window and access the profile file, this variable should still be there.
+

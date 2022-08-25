@@ -82,18 +82,17 @@ Now that you are able to check and navigate around your folders, it is time to l
 | `grep *pattern* *files*` | Global Regular Expression Print | Searches for a *pattern* within the chosen *files*. You can use it with Regular Expressions. | `grep 'some text' MyFile` | 
 | `find *dir* -name *name*` | Find | Searches, starting on the chosen directory, for files with the desired name | `find . -name "MyFile"` '.' or '~' stands for the current directory you are on, but you can write the path to any directory you wish. |
 | `wc *file*` | Word count | Returns 3 numbers: the lines, words and characters within the file | `wc blog.odt` returns `116   625 33329 blog.odt`|
-|`touch *file*` | create, change and modify timestamps of a file | Normally used to create new files| `touch 'MynewFile.txt'`
+|`touch *file*` | create, change and modify timestamps of a file | Normally used to create new files| `touch 'MynewFile.txt'`|
 |`cat *file1* *file2* > CombinedFile` | Concatenate | Combines the content of 2 or more files into a new file | `cat 'TextFile' 'OtherTextFile' > 'CombinedTextFile'`
-| `cat *Textfile*`| Concatenate | When used with only one text file, it allows you to display the text directly on the command line|
+| `cat *Textfile*`| Concatenate | When used with only one text file, it allows you to display the text directly on the command line| |
 | `cat > *TextFile*`| Concatenate| It allows you to create short text documents directly in the terminal, prompting you for text| |
-| `less *TextFile*` | | It displays the contents of a text file or a command output one page at a time. Press [here](https://linuxize.com/post/less-command-in-linux/) for a tutorial on how to navigate through the text| | |
+| `less *TextFile*` | Less | It displays the contents of a text file or a command output one page at a time. Press [here](https://linuxize.com/post/less-command-in-linux/) for a tutorial on how to navigate through the text| |
 |`head -number *file*` | Head | It will output the specified number of lines from the beginning of the file. If the number is empty, it will output 10 lines of text | `head -3 MyFile` or `head MyFile`|
 |`tail *file*`| Tail | It will output the specified number of lines from the end of the file. If the number is empty, it will output 10 lines of text | `tail -3 MyFile` or `tail MyFile`|
 |`file *file*`| File | Outputs the type of the file | `file blog.odt` outputs `blog.odt: OpenDocument Text`|
 |`cp *file1* *NewFile*` | Copy | Copies *file1* into a new file called *NewFile*. If you specify a path, you can create a copy in a different directory.| `cp MyFile MyFileCopy` or `cp MyFile home/catfromspace/MyFileCopy`|
 |`rm *file*`| Remove | Will eliminate the chosen file from the computer.  | `rm 'MyFile.txt`|
 |`mv *file1 path* *file2 path*` | Move | Moves the chosen file from one location to the other. Can also be used to rename files if you choose the same path for both.| `mv home/catfromspace/sardines.pdf home/foodsilike/sardines.pdf`|
-|
 
 
 ## Switches or Flags

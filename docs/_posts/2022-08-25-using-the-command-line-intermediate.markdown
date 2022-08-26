@@ -109,7 +109,7 @@ The same way, a computer has an environment it works within. We can have a peak 
 For example, this is the environment on my computer:
 <p><img src="/assets/images/environment.png" alt="Example of the output of the command env" width="500"></p>
 
-You can see that every line consists of a key-value pair, for example on the first line, it would be GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screend0f938ca_4824_460b_80bc_8413291936b9. "GNOME_TERMINAL_SCREEN" would be the **key** and /org/gnome/Terminal/screend0f938ca_4824_460b_80bc_8413291936b9 would be the **value**.
+You can see that every line consists of a key-value pair, for example on the first line, it would be `GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screend0f938ca_4824_460b_80bc_8413291936b9`. `GNOME_TERMINAL_SCREEN` would be the **key** and `/org/gnome/Terminal/screend0f938ca_4824_460b_80bc_8413291936b9` would be the **value**.
 
 Every single program you run on your computer has access to some of this env vars, which helps it understand the environment it is working in. If you want to find any single environmental variable, you can use the command `echo $ENV_VAR` (ENV_VAR reffers to the key we talked about, for example `echo $HOME` or `echo $GNOME_TERMINAL_SCREEN`).
 

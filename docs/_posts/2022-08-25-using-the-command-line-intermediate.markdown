@@ -47,14 +47,14 @@ I am sure you have come across with a window on your computer asking you for adm
 
 There are three types of classes for each file within a unix-based system, and each of this classes has three different permissions: read, write and execute.
 
-* Class "User": Every file in our system has one and only one user, which is the owner of the file. 
-* Class "Group": Permissions given to a group of users. Every user can belong to several groups of users.
-* Class "Others": This class contains all users that don't fall into any of the previous categories.
+* **Class "User":** Every file in our system has one and only one user, which is the owner of the file. 
+* **Class "Group":** Permissions given to a group of users. Every user can belong to several groups of users.
+* **Class "Others":** This class contains all users that don't fall into any of the previous categories.
 
 Permissions:
-* "Read": This permission allows for a file to be read.
-* "Write": It allows to modify a file
-* "Execute": It allows to execute a file, for example to run a program. If you have "execute" permission over a directory, you will be able to access and change the files it contains, but you will not be able to see the files within it unless you also have a "read" permission.
+* **"Read":** This permission allows for a file to be read.
+* **"Write":** It allows to modify a file
+* **"**Execute":** It allows to execute a file, for example to run a program. If you have "execute" permission over a directory, you will be able to access and change the files it contains, but you will not be able to see the files within it unless you also have a "read" permission.
 * 
 Take into account that permissions in Unix are not inherited, which means that the fact of having "read" permission over a directory doesn't mean you have "read" permission over the files it contains.
 
@@ -75,9 +75,9 @@ Now, lets have a look at the second file, we can see: `-rw-rw-r--`. The first hy
 The command we use to change permissions is `chmod`. Look at the following example:
 `chmod g+r myfile.txt` 
 With the previous command, we are giving the "Group" class a write permission over the file "myfile.txt".
-* For this command, "u" stands for "User", "g" for "Group" and "o" for "Other".
-* "+" means we are adding a permission, "-" means we are removing a permission.
-* As before, "r" stands for read, "w" stands for write and "x" stands for execute.
+* For this command, **"u"** stands for **"User"**, **"g"** for **"Group"** and **"o"** for **"Other"**.
+* **"+"** means we are **adding a permission**, **"-"** means we are **removing a permission.**
+* As before, **"r"** stands for **read**, **"w"** stands for **write** and **"x"** stands for **execute**.
 
 So, imagine we want to remove all permissions for the "Others" class over the file "privateDiary.txt". We would use the following command: `chmod o-rwx privateDiary.txt`
 You can make sure the permissions have changed as you wanted using the `ls -l` command again.
@@ -92,6 +92,8 @@ You can make sure the permissions have changed as you wanted using the `ls -l` c
 "Superuser mode" sounds like some kind of superpower, and it is actually not very far from reality. Being a superuser means that you have the rights and permissions over all the files and directories on your computer. Sounds fun, doesn't it?
 
 But you need to be extremely careful when you are making changes on the computer from the "Superuser mode", as a simple typo on a command you introduce can cause significant damage. That is why it is recommended to work as a normal user and just get the extra permissions only when you need to, this way, it is much less likely to cause problems on your computer.
+
+<p><img src="/assets/images/gabriel-heinzer-4Mw7nkQDByk-unsplash.jpg" alt="Sudo by Gabriel Heizer" width="200"></p>
 
 To run a particular command as a superuser, you only have to type the `sudo` prefix and write the superuser password as required. 
 For example, if you need to install a program and need Superuser privileges you would write `sudo exampleProgram install`

@@ -122,8 +122,11 @@ For clarification, a shell is a program that reads, understands and executes the
 Lets create a new env var with the following command: `export PLANET=earth`, and verify it exists in your computer with the command `echo $PLANET`. If you now open a new terminal window and try running `echo $PLANET` again, you will see that it is nowhere to be found, this is because it is an environmental variable.
 
 To avoid this, we can run the following commands:
-* Zsh: echo "export PLANET=earth" >> ~/.zshrc
-* Bash: echo "export PLANET=earth" >> ~/.bash_profile
+* **Zsh:** `echo "export PLANET=earth" >> ~/.zshrc`
+* **Bash:** `echo "export PLANET=earth" >> ~/.bash_profile`
 
 This will create a "permanent" environmental variable. Now if you open a new terminal window and access the profile file, this variable should still be there.
 
+<p><img src="/assets/images/ga-XncszFVfqhE-unsplash.jpg" alt="Cat with man on the computer by GA" width="400"></p>
+
+And this is it! Now you know some more advanced commands to work with. Until next time, have a happy day and happy coding!

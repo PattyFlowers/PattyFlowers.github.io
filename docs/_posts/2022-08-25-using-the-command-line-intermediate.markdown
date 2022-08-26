@@ -85,8 +85,8 @@ You can make sure the permissions have changed as you wanted using the `ls -l` c
 # Superuser mode ("root")
 
 <div class="img-with-text">
-    <img src="/assets/images/scottish-cat-superhero-mask-raincoat-131188158.jpg" alt="Scottish cat superhero" align=right width="200">
     <p style="text-align:right;">Image property of Dreamstime</p>
+    <img src="/assets/images/scottish-cat-superhero-mask-raincoat-131188158.jpg" alt="Scottish cat superhero" align=right width="200">
 </div>
 
 "Superuser mode" sounds like some kind of superpower, and it is actually not very far from reality. Being a superuser means that you have the rights and permissions over all the files and directories on your computer. Sounds fun, doesn't it?

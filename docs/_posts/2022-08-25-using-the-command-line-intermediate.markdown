@@ -10,7 +10,7 @@ tags: ["programming", "coding", "software development", "tech", "Makers Academy"
 
 *This is part of the content I learned during my first week of the Makers Academy Pre-course, and as such, writing this posts are a way of reviewing what I have learnt and hopefully helping other people which are also trying to get into the tech industry.*
 
-# Streams and pipelines
+## Streams and pipelines
 
 A basic concept in programming is what we call **streams**, which refers to the flow of information or data (inputs and outputs) that are happening in a computer or program. Computers have a minimum of three "standard streams":
 * **Standard input (stdin):** It is a stream from which a computer reads the input data. An example would be what you type on your **keyboard** that your computer can read and interpret. 
@@ -39,8 +39,7 @@ The previous command will find files ending in ".txt" and pass them to grep as a
 
 We have thousands of combinations of different commands, and you can play and experiment with them as much as you like, but be careful not to remove (`rm`) anything important!
 
-
-# Permissions
+## Permissions
 
 I am sure you have come across with a window on your computer asking you for administrator permission when installing a new program. This is because there are different kinds of permissions to access or modify files, and I will show you how to see this permissions and work with them.
 
@@ -69,7 +68,7 @@ On the first line we see `dwrxrwxrwx`: the "d" means that the file is a director
 
 Now, lets have a look at the second file, we can see: `-rw-rw-r--`. The first hyphen means that the file is not one of the main type files so it is not recognised. Then we have the "User" permissions `rw-`, here we see that the execute permission (x) is not there. The same happens for the "Group" class. For the "Others" class, the only permission we have is to read the file (r)
 
-## How to change permissions
+# How to change permissions
 
 The command we use to change permissions is `chmod`. Look at the following example:
 `chmod g+r myfile.txt` 
@@ -81,7 +80,7 @@ With the previous command, we are giving the "Group" class a write permission ov
 So, imagine we want to remove all permissions for the "Others" class over the file "privateDiary.txt". We would use the following command: `chmod o-rwx privateDiary.txt`
 You can make sure the permissions have changed as you wanted using the `ls -l` command again.
 
-## Superuser mode ("root")
+# Superuser mode ("root")
 
 "Superuser mode" sounds like some kind of superpower, and it is actually not very far from reality. Being a superuser means that you have the rights and permissions over all the files and directories on your computer. Sounds fun, doesn't it?
 
@@ -90,7 +89,7 @@ But you need to be extremely careful when you are making changes on the computer
 To run a particular command as a superuser, you only have to type the `sudo` prefix and write the superuser password as required. 
 For example, if you need to install a program and need Superuser privileges you would write `sudo exampleProgram install`
 
-# Environmental variables and profile files
+## Environmental variables and profile files
 
 <p><img src="/assets/images/angela-benito-WgGJjGN4_ck-unsplash.jpg" alt="Forest by Angela Benito" width="300"></p>
 

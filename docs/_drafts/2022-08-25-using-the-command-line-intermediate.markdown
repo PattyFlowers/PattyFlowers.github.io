@@ -17,8 +17,10 @@ A basic concept in programming is what we call **streams**, which refers to the 
 * **Standard output (stdout):** It is a stream to which the computer or a program writes its output data. For example, the information you can see on your **monitor**.
 * **Standard error (stderr):** It is a stream used by programs to output **error messages**. It is separated from the standard output, so we can control its flow independently.
 
-<p><img src="/assets/images/streams.png" alt="Streams of data" width="300"></p>
-(Image from Wikipedia)
+<div class="img-with-text">
+    <img src="/assets/images/streams.png" alt="Streams of data" width="300">    
+    <p>Image sourced from: Wikipedia</p>
+</div>
 
 It is very important to understand this flow of information as that would allow us to redirect it, for example, getting a second program to take as its input, the output of a first program using what we call a **pipeline** (|).
 
@@ -39,8 +41,9 @@ The previous command will find files ending in ".txt" and pass them to grep as a
 
 We have thousands of combinations of different commands, and you can play and experiment with them as much as you like, but be careful not to remove (`rm`) anything important!
 
-
 # Permissions
+
+<p><img src="/assets/images/fly-d-mT7lXZPjk7U-unsplash.jpg" alt="Lock on computer by Fly D" width="300"></p>
 
 I am sure you have come across with a window on your computer asking you for administrator permission when installing a new program. This is because there are different kinds of permissions to access or modify files, and I will show you how to see this permissions and work with them.
 
@@ -83,6 +86,11 @@ You can make sure the permissions have changed as you wanted using the `ls -l` c
 
 ## Superuser mode ("root")
 
+<div class="img-with-text">
+    <img src="/assets/images/scottish-cat-superhero-mask-raincoat-131188158.jpg" alt="Scottish cat superhero" width="200">
+    <p>Image property of Dreamstime</p>
+</div>
+
 "Superuser mode" sounds like some kind of superpower, and it is actually not very far from reality. Being a superuser means that you have the rights and permissions over all the files and directories on your computer. Sounds fun, doesn't it?
 
 But you need to be extremely careful when you are making changes on the computer from the "Superuser mode", as a simple typo on a command you introduce can cause significant damage. That is why it is recommended to work as a normal user and just get the extra permissions only when you need to, this way, it is much less likely to cause problems on your computer.
@@ -119,3 +127,5 @@ To avoid this, we can run the following commands:
 
 This will create a "permanent" environmental variable. Now if you open a new terminal window and access the profile file, this variable should still be there.
 
+
+And this is it! Now you know some more advanced commands to work with. Until next time, have a happy day and happy coding!

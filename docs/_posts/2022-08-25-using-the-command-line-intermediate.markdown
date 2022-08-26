@@ -17,8 +17,10 @@ A basic concept in programming is what we call **streams**, which refers to the 
 * **Standard output (stdout):** It is a stream to which the computer or a program writes its output data. For example, the information you can see on your **monitor**.
 * **Standard error (stderr):** It is a stream used by programs to output **error messages**. It is separated from the standard output, so we can control its flow independently.
 
-<p><img src="/assets/images/streams.png" alt="Streams of data" width="300"></p>
-(Image from Wikipedia)
+<div class="img-with-text">
+    <img src="/assets/images/streams.png" alt="Streams of data" width="300">    
+    <p>Image sourced from: Wikipedia</p>
+</div>
 
 It is very important to understand this flow of information as that would allow us to redirect it, for example, getting a second program to take as its input, the output of a first program using what we call a **pipeline** (|).
 
@@ -81,6 +83,11 @@ So, imagine we want to remove all permissions for the "Others" class over the fi
 You can make sure the permissions have changed as you wanted using the `ls -l` command again.
 
 # Superuser mode ("root")
+
+<div class="img-with-text">
+    <img src="/assets/images/scottish-cat-superhero-mask-raincoat-131188158.jpg" alt="Scottish cat superhero" width="200">
+    <p>Image property of Dreamstime</p>
+</div>
 
 "Superuser mode" sounds like some kind of superpower, and it is actually not very far from reality. Being a superuser means that you have the rights and permissions over all the files and directories on your computer. Sounds fun, doesn't it?
 

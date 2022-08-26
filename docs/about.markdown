@@ -15,4 +15,4 @@ Cat from space started as a way of documenting a journey I never thought I would
 
 If you like this blog or have any questions, please feel free to leave us a comment or recommend us! If you would like to support us further, you can visit our shop following the link at the bottom of this page. In any case, I hope you enjoy your journey and thank you for visiting!
 
-<p><img src="/assets/images/IMG-20210628-WA0000-min.jpg" alt="A picture of Patricia in the beautiful British coast" width="200"></p>
+<center><img src="/assets/images/IMG-20210628-WA0000-min.jpg" alt="A picture of Patricia in the beautiful British coast" width="200"></center>

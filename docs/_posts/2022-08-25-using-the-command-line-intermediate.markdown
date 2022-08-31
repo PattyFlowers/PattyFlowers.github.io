@@ -13,16 +13,16 @@ tags: ["programming", "coding", "software development", "tech", "Makers Academy"
 ## Streams and pipelines
 
 A basic concept in programming is what we call **streams**, which refers to the flow of information or data (inputs and outputs) that are happening in a computer or program. Computers have a minimum of three "standard streams":
-* **Standard input (stdin):** It is a stream from which a computer reads the input data. An example would be what you type on your **keyboard** that your computer can read and interpret. 
-* **Standard output (stdout):** It is a stream to which the computer or a program writes its output data. For example, the information you can see on your **monitor**.
-* **Standard error (stderr):** It is a stream used by programs to output **error messages**. It is separated from the standard output, so we can control its flow independently.
+* **Standard input (stdin):** It is a stream from which a computer reads the input data. An example would be what you type on your **keyboard** that your computer can read and interpret. Imagine we give our computer the command `find`
+* **Standard output (stdout):** It is a stream to which the the program writes out what's considered its main output. For example, the information you can see on your **monitor**. Following the previous example, when we use the command `find`, it will write out the paths to the located files to standard output.
+* **Standard error (stderr):** It is a stream used that is traditionally used for things like **error messages** - things that you might not want mixed with your main output. It is separated from the standard output, so we can control its flow independently. Our command `find` will write out earnings that it cannot access a directory to standard error.
 
 <div class="img-with-text">
     <img src="/assets/images/streams.png" alt="Streams of data" width="300">    
     <p style="text-align:center;">Image sourced from: Wikipedia</p>
 </div>
 
-It is very important to understand this flow of information as that would allow us to redirect it, for example, getting a second program to take as its input, the output of a first program using what we call a **pipeline** (|).
+It is very important to understand this flow of information as that would allow us to redirect it, for example, getting a second program to take as its input, the output of a first program using what we call a **pipeline** (`|`).
 
 According to Wikipedia: a pipeline consists of a chain of processing elements (processes, threads, coroutines, functions, etc.), arranged so that the output of each element is the input of the next.
 
@@ -39,11 +39,46 @@ This command will look for a pattern starting in 849 within a "Numberplates" fil
 
 The previous command will find files ending in ".txt" and pass them to grep as an input. Grep will check amongst those files and  find the ones that include "someFile". The output from grep will then be redirected to `wc -l` that will list a count of how many results we have.
 
+There are other ways of redirecting streams which don't require a pipeline sign. The first example I gave you is actually overcomplicating things, we could get the same result by doing it slightly different:
+Instead of `grep 849* Numberplates | cat > "numberplates.txt"`, we can do `grep 849* Numberplates > "numberplates.txt"`, since the `>` symbol implicates that we are directing the output of `grep` into a new file "numberplates.txt".
+
+We can also use `>>` as redirection, which also writes to a file, but unlike `>`, it appends rather than clearing out the file altogether each time we use it. This can be really useful for monitoring, for example if you are collecting logs!
+
+You can compare the results of running the following commands to see the difference:
+```ruby
+echo "First line" > test1.txt             
+echo "Second line" > test1.txt 
+echo "Third line" > test1.txt
+cat test1.txt # Should output only the last line
+```
+```ruby
+echo "First line" >> test2.txt
+echo "Second line" >> test2.txt
+echo "Third line" >> test2.txt
+cat test2.txt # Should output all three lines
+```
+
+We can also redirect different streams into different targets. We know the number for our **standard output** is **1** and for the **standard error** is **2**, and that our command `find` outputs problems when accessing a file into the **standard error**. We could use the following to create and fill in a text file that contains the error messages from this command:
+```ruby
+find / -name "someFile" 1> /dev/null 2> errors.txt
+```
+In the above case, the **standard output** (where the search results end up) is redirecting to "nothing" (`/dev/null`), meaning that it doesn't show up anywhere, and the **standard error**, where the access errors appear, is redirected to a file called `errors.txt`, so that we can have a list with the errors it comes accross with.
+
+We can even redirect using a file as an input for a command. So both of the commands below would have the same result:
+```ruby
+cat somefile | wc -l
+wc -l < somefile
+```
+
 We have thousands of combinations of different commands, and you can play and experiment with them as much as you like, but be careful not to remove (`rm`) anything important!
 
 ## Permissions
 
 I am sure you have come across with a window on your computer asking you for administrator permission when installing a new program. This is because there are different kinds of permissions to access or modify files, and I will show you how to see this permissions and work with them.
+
+In this post I will be describing the permission system for POSIX systems, as Windows does have a completely different model. You can read more about Window's permission system [here](https://www.online-tech-tips.com/computer-tips/set-file-folder-permissions-windows/).
+
+Each element in the filesystem, whether it's a file or a directory, has user ownership and group ownership. This ownership determines who the user permissions and the group permissions apply to. While a user can belong to several different groups, every object in the filesystem is owned by only one user and group
 
 There are three types of classes for each file within a unix-based system, and each of this classes has three different permissions: read, write and execute.
 
@@ -51,12 +86,26 @@ There are three types of classes for each file within a unix-based system, and e
 * **Class "Group":** Permissions given to a group of users. Every user can belong to several groups of users.
 * **Class "Others":** This class contains all users that don't fall into any of the previous categories.
 
+Because permissions over files and over directories vary slightly, I am going to explain each one separatedly:
+
+# Permissions over files
+
 Permissions:
 * **"Read":** This permission allows for a file to be read.
 * **"Write":** It allows to modify a file
-* **"**Execute":** It allows to execute a file, for example to run a program. If you have "execute" permission over a directory, you will be able to access and change the files it contains, but you will not be able to see the files within it unless you also have a "read" permission.
+* **"Execute":** It allows to execute a file, for example to run a program. If you have "execute" permission over a directory, you will be able to access and change the files it contains, but you will not be able to see the files within it unless you also have a "read" permission.
 * 
 Take into account that permissions in Unix are not inherited, which means that the fact of having "read" permission over a directory doesn't mean you have "read" permission over the files it contains.
+
+# Permissions over directories
+
+* **"Read"** permission means that you can list what contents the directory has, but you cannot change this contents in any way.
+
+* **"Write"** permission means that you can create/delete/move/copy/rename contents of that directory. Take into account that without accompanying read permission, you'd need to make your changes blind as you wouldn't be able to tell beforehand what the directory contains).
+
+* The **"execute permission"** means that you can access the contents of the directory for anything that those things permit you to (e.g. if you can read permission to directory, but not execute permission, then the command `ls` that lists the files within will give us an error; and if you have write permission, but not execute permission, then creating any files in that directory will fail).
+By extension, as we mentioned earlier, in order to do anything in the file system, you need to have execute permissions on all the driectories from the root to where you want to do that something; if you don't have that permission on even one thing in the path, then you cannot access anything below that point.
+
 
 You can see the permissions over your files using the command `ls -l`:
 
@@ -68,7 +117,7 @@ The format in which this permissions are written is as follows: Type of file + U
 
 On the first line we see `dwrxrwxrwx`: the "d" means that the file is a directory. The first `wrx` after it would be the "User permissions", the fact that the three letters are present means that the "User" has the three permissions (read, write and execute) over that file in particular. The same happens with the "Group" and the "Others" permissions, you can see that they are also there: `d` `rwx` `rwx` `rwx`
 
-Now, lets have a look at the second file, we can see: `-rw-rw-r--`. The first hyphen means that the file is not one of the main type files so it is not recognised. Then we have the "User" permissions `rw-`, here we see that the execute permission (x) is not there. The same happens for the "Group" class. For the "Others" class, the only permission we have is to read the file (r)
+Now, lets have a look at the second file, we can see: `-rw-rw-r--`. The first hyphen means that the item is a regular file on disk (if it was an `l`, this would incidate symbolic links, like the Windows shortcuts but at a filesystem level). Then we have the "User" permissions `rw-`, here we see that the execute permission (x) is not there. The same happens for the "Group" class. For the "Others" class, the only permission we have is to read the file (r)
 
 # How to change permissions
 
@@ -112,6 +161,8 @@ For example, this is the environment on my computer:
 You can see that every line consists of a key-value pair, for example on the first line, it would be `GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screend0f938ca_4824_460b_80bc_8413291936b9`. `GNOME_TERMINAL_SCREEN` would be the **key** and `/org/gnome/Terminal/screend0f938ca_4824_460b_80bc_8413291936b9` would be the **value**.
 
 Every single program you run on your computer has access to some of this env vars, which helps it understand the environment it is working in. If you want to find any single environmental variable, you can use the command `echo $ENV_VAR` (ENV_VAR reffers to the key we talked about, for example `echo $HOME` or `echo $GNOME_TERMINAL_SCREEN`).
+
+one of the standard environment variables is `$SHELL`, which gives you the path to the executable of your current shell. So if you are not sure of what you are running (bash, zsh, fish can look very similar to one another) you can run `$SHELL --version` which will expand into something like `/bin/zsh --version` or `/bin/bash --version`, which will then give you a full name of the one you're running.
 
 Unfortunately, environmental variables only last until the end of the current shell session, and then they disappear. If we want these variables to be present for all our sessions, we will need to use profile files.
 

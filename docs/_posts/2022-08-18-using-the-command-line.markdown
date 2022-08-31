@@ -59,13 +59,13 @@ Here is a table with some **basic commands** you will need to know in order to m
 |---------|----------|-----------------|-------|
 |`whoami` | Who am I?| Shows the current user's username | Example of output: `pattyflowers`
 | `date` | date | Shows the system date | Outputs: `Thu 18 Aug 13:00:02 BST 2022` |
-| `pwd` | print working directory | Shows (prints) the current directory you are in. | Outputs: `home/catfromspace` |
+| `pwd` | print working directory | Shows (prints) the current directory you are in. | Outputs: `/home/catfromspace` |
 | `ls` | list | Lists all the files and directories within your current directory. | Outputs: `Desktop` `Documents` `Downloads` `Pictures` |
 | `cd *dir*` | change directory | Goes to the directory of your choice (*dir*) | `cd Desktop` would take us to `home/catfromspace/Desktop`|
-|`cd ..` |change directory (up) | Goes up one directory | If we are on `home/catfromspace/Desktop`, it would take us to `home/catfromspace`
+|`cd ..` |change directory (up) | Goes up one directory | If we are on `/home/catfromspace/Desktop`, it would take us to `home/catfromspace`
 | `man *command*` | manual | It displays a full manual on how to use the chosen command | `man ls` would display <img src="/assets/images/commandlinemanual.png" alt="Command line manual example" width="400">|
 |`mkdir *dir*` | make directory | Makes a new empty directory (folder) with the chosen name | `mkdir MyNewFolder` |
-| `rmdir *dir*` | remove directory | Removes a directory (folder) as long as it is empty | `rmdir MyNewFolder` or if you want to remove a directory containing files, you can use `rmdir -r MyNewFolder`.
+| `rmdir *dir*` | remove directory | Removes a directory (folder) as long as it is empty | `rmdir MyNewFolder` |
 
 *Note: The words within asterisks are the ones you need to fill in with the directory, folder, command or file of your choice.*
 
@@ -80,7 +80,7 @@ Now that you are able to check and navigate around your folders, it is time to l
 | Command | Meaning | Description  | Examples |
 |---------|----------|-----------------|-------|
 | `grep *pattern* *files*` | Global Regular Expression Print | Searches for a *pattern* within the chosen *files*. You can use it with Regular Expressions. | `grep 'some text' MyFile` | 
-| `find *dir* -name *name*` | Find | Searches, starting on the chosen directory, for files with the desired name | `find . -name "MyFile"` '.' or '~' stands for the current directory you are on, but you can write the path to any directory you wish. |
+| `find *dir* -name *name*` | Find | Searches, starting on the chosen directory, for files with the desired name | `find . -name "MyFile"` '.' stands for the current directory we are in, but you can write the path to any directory you wish. There is a lot more `find` can do for you, you can read more about this using `man find` |
 | `wc *file*` | Word count | Returns 3 numbers: the lines, words and characters within the file | `wc blog.odt` returns `116   625 33329 blog.odt`|
 |`touch *file*` | create, change and modify timestamps of a file | Normally used to create new files| `touch 'MynewFile.txt'`|
 |`cat *file1* *file2* > CombinedFile` | Concatenate | Combines the content of 2 or more files into a new file | `cat 'TextFile' 'OtherTextFile' > 'CombinedTextFile'`
@@ -89,7 +89,7 @@ Now that you are able to check and navigate around your folders, it is time to l
 |`echo "someText" > text.txt` | | It is a command that outputs the strings that are passed to it as arguments. We can use it to create short text files or to print on the screen what we write|To create a short text file with the text we write: `echo "Hello, world" > hello.txt`, to print some text on the terminal: `echo "This text will print on the terminal!`
 | `less *TextFile*` | Less | It displays the contents of a text file or a command output one page at a time. Press [here](https://linuxize.com/post/less-command-in-linux/) for a tutorial on how to navigate through the text| |
 |`head -number *file*` | Head | It will output the specified number of lines from the beginning of the file. If the number is empty, it will output 10 lines of text | `head -3 MyFile` or `head MyFile`|
-|`tail *file*`| Tail | It will output the specified number of lines from the end of the file. If the number is empty, it will output 10 lines of text | `tail -3 MyFile` or `tail MyFile`|
+|`tail *file*`| Tail | It will output the last 10 lines of text | `tail MyFile`|
 |`file *file*`| File | Outputs the type of the file | `file blog.odt` outputs `blog.odt: OpenDocument Text`|
 |`cp *file1* *NewFile*` | Copy | Copies *file1* into a new file called *NewFile*. If you specify a path, you can create a copy in a different directory.| `cp MyFile MyFileCopy` or `cp MyFile home/catfromspace/MyFileCopy`|
 |`rm *file*`| Remove | Will eliminate the chosen file from the computer.  | `rm 'MyFile.txt`|

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Git and Github"
-date:   2022-08-26
+title:  "Version control"
+date:   2022-08-31
 categories: Programming Learning
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
@@ -10,15 +10,11 @@ tags: ["programming", "coding", "software development", "tech", "Makers Academy"
 
 *This is part of the content I learned during my first week of the Makers Academy Pre-course, and as such, writing this posts are a way of reviewing what I have learnt and hopefully helping other people which are also trying to get into the tech industry.*
 
-### Version control
-
-Close your eyes and imagine living in a videogame. You can save whenever you want and keep as many saved games as you desire if you prefer not to overwrite them. At some point, you have to fight a dragon that is several levels over you and after a couple of attacks **your character dies**. If you die on real life… well, that’s it, you do not get second chances, but if you had saved your game, **you could go back to where you were just before and try in a different way**.
-
 <p><img src="/assets/images/sigmund-By-tZImt0Ms-unsplash.jpg" alt="Game over by Sigmund" width="300"></p>
 
 That is more or less what version control does. You can save your work, and each time you save it, it creates a new **save point** that you can return to at a later point if you need it. You can also **carry on with different saved games simultaneously** to see how things would be if you did different things on each of them. Once you know which one you prefer, you can **either combine all of the different games** (called “branches”) you have saved to have a combination of all, with all the items you have acquired and all your achievements or just **opt to carry on with one of them**. But that is not all, it also allows you to **“play” remotely with other people on the same game and combine your efforts**.
 
-<p><img src="/assets/images/basicversioncontrolsmall.png" alt="Basic version control" width="700"></p>
+<p><img src="/assets/images/basicversioncontrolsmall.png" alt="Basic version control" width="800"></p>
 
 **Version control** is a way of **saving and keeping track of our work**, being able to see what changes have been made at a certain point in time and who made them, allowing us to go back to where those changes where made if suddenly something stopped working and we cannot figure out what was wrong.
 
@@ -28,7 +24,7 @@ No, seriously, it is worth the initial effort to understand it and get used to t
 
 So, were do we start?
 
-## Git and GitHub
+### Git and GitHub
 
 <p><img src="/assets/images/roman-synkevych-wX2L8L-fGeA-unsplash.jpg" alt="GitHub Octocat by Roman Synjevych" width="400"></p>
 
@@ -42,11 +38,12 @@ The best way to work with Git and GitHub is through your **command-line**. If yo
 
 There are a few commands you will need to use constantly while using version control on your work.
 
-# Find your repository and use git status
+
+## Find your repository and use git status
 
 Firstly, and it sounds very obvious but you will find yourself forgetting it all the time: **you need to be in the directory (or folder) that has been initialized as a repository and contains the project you are working on before you can work on it from the command line. **
 
-<p><img src="/assets/images/rightfolder.png" alt="Checking if you are in the right folder through the command line" width="400"></p>
+<p><img src="/assets/images/rightfolder.png" alt="Checking if you are in the right folder through the command line" width="600"></p>
 
 Look at the image above.
 1. In this line I have used the command `git status`, which gives us an idea of the files that have been changed and what is yet to be committed. When I press enter, it gives me the error `fatal: not a git repository(or any of the parent directories): .git`, it is basically telling me that I am not in the right directory to work with git.
@@ -56,18 +53,20 @@ Look at the image above.
 3. If we try `git status` again, we see that this time, something different happens, and it is giving us some information about a file that has been changed and even about what command to use next.
 
 
-# Git add, git commit and git push
 
-<p><img src="/assets/images/workflow1.png" alt="Example of basic workflow in git" width="700"></p>
+## Git add, git commit and git push
+
+<p><img src="/assets/images/workflow1.png" alt="Example of basic workflow in git" width="800"></p>
 
 In the previous image we have four main spaces:
-**-Workspace:** Is the area where you are working and making changes on your files. Imagine you are working on a new and super exciting novel about teenage shiny vampires and from time to time you save your text document.
 
-**-Staging area:** Is an area where we send the changed files that we are planning to commit with the next commit we do. It is like a **“waiting room”** for files that are waiting to be committed. It is independent from the action of saving your document on your computer, so you can save as many times as you want before you add this file to the Staging area, where the changes you have made so far will be stored temporarily.
+* **Workspace:** Is the area where you are working and making changes on your files. Imagine you are working on a new and super exciting novel about teenage shiny vampires and from time to time you save your text document.
 
-**-Local repository**: Is the **copy of the repository or project you are working on that exists in your computer**. Once you commit the changes you have made, these changes will be updated in your local repository, but they will not be available yet in the cloud. If your computer catches fire, you can say goodbye to your novel!.
+* **Staging area:** Is an area where we send the changed files that we are planning to commit with the next commit we do. It is like a **“waiting room”** for files that are waiting to be committed. It is independent from the action of saving your document on your computer, so you can save as many times as you want before you add this file to the Staging area, where the changes you have made so far will be stored temporarily.
 
-**-Remote repository:** Is the **copy of your repository that exists in the cloud**. You will need to “push” your changes from your local repository to the remote repository so that these are available anywhere. Once you have done that, if your angry ex-partner decides to throw your computer off the window, your novel will be completely safe and you will be able to download it (or “clone” it) from the new fancy computer you have just bought.
+* **Local repository**: Is the **copy of the repository or project you are working on that exists in your computer**. Once you commit the changes you have made, these changes will be updated in your local repository, but they will not be available yet in the cloud. If your computer catches fire, you can say goodbye to your novel!.
+
+* **Remote repository:** Is the **copy of your repository that exists in the cloud**. You will need to “push” your changes from your local repository to the remote repository so that these are available anywhere. Once you have done that, if your angry ex-partner decides to throw your computer off the window, your novel will be completely safe and you will be able to download it (or “clone” it) from the new fancy computer you have just bought.
 
 Now we have an idea of what different areas our files travel to before reaching the remote repository, but we still need to learn the basic commands to move files around. The three most basic commands and the ones you will find yourself using more often will be:
 
@@ -81,7 +80,7 @@ Now we have an idea of what different areas our files travel to before reaching 
 | `git pull` | It is used to get the updates that have been made to the remote repository and merges them with your local repository |
 | `git clone “SSH or HTTPS address”`| It creates a copy of a remote repository in your local repository |
 
-# Branching
+## Branching
 
 So lets imagine the simplest possible situation. You have set up Git and GitHub and start a project, work on it and carry on with the flow of saving your work (as you would normally with any document, for example pressing `Ctrl + S`) and then committing it (using `git add` + name or git `add .` an then `git commit -m “your commit message between quotes”`). If you didn’t want to create any parallel workflows, what we call “branches”, you could just carry on doing that until your project is completed working on your **“main” branch**.
 
@@ -90,6 +89,8 @@ But working on your own on a little project is entirely different to, let’s sa
 <p><img src="/assets/images/branching.png" alt="Branching example" width="700"></p>
 
 There are a few basic commands you want to know in order to work with branches:
+
+
 | Command | Description |
 |-----|------|
 |`git branch`| Lists all the existing branches or create a new branch if we add a name|
@@ -102,13 +103,16 @@ There are a few basic commands you want to know in order to work with branches:
 
 There are many, many more commands we can use in Git, but I don’t want to make this too complicated. If you would like to dive more into this topic, here are some interesting resources:
 
--[A list of the most useful Git commands and their use](https://github.com/pushpankq/Git-Commands- )
--[A game to help you understand branching in git](https://learngitbranching.js.org/)
--Git and GitHub have a lot of their own documentation explaining all their features and giving step by step guides. You can find some [here](https://docs.github.com/en/get-started/quickstart/hello-world)
--You have lots of videos about these topics, which explain in a simple and entertaining way all the concepts you need to know. You have some [here](https://www.youtube.com/watch?v=RGOj5yH7evk&t=321s) and [here](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+* [A list of the most useful Git commands and their use](https://github.com/pushpankq/Git-Commands- )
+
+* [A game to help you understand branching in git](https://learngitbranching.js.org/)
+
+* Git and GitHub have a lot of their own documentation explaining all their features and giving step by step guides. You can find some [here](https://docs.github.com/en/get-started/quickstart/hello-world)
+
+* You have lots of videos about these topics, which explain in a simple and entertaining way all the concepts you need to know. You have some [here](https://www.youtube.com/watch?v=RGOj5yH7evk&t=321s) and [here](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 
-<p><img src="/assets/images/arham-jain-OkiDTYxLo34-unsplash.jpg" alt="Blue flowers and branches by Arham Jain" width="200"></p>
+<p><img src="/assets/images/arham-jain-OkiDTYxLo34-unsplash.jpg" alt="Blue flowers and branches by Arham Jain" width="300"></p>
 
 
 I hope you enjoyed this post. Using Git can be a bit difficult at the beginning, but it soon becomes like a second nature, so please don’t give up too soon! 

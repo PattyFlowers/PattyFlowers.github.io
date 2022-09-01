@@ -10,6 +10,8 @@ tags: ["programming", "coding", "software development", "tech", "Makers Academy"
 
 *This is part of the content I learned during my first week of the Makers Academy Pre-course, and as such, writing this posts are a way of reviewing what I have learnt and hopefully helping other people which are also trying to get into the tech industry.*
 
+Close your eyes and imagine living in a videogame. You can save whenever you want and keep as many saved games as you desire if you prefer not to overwrite them. At some point, you have to fight a dragon that is several levels over you and after a couple of attacks **your character dies**. If you die on real life… well, that’s it, you do not get second chances, but if you had saved your game, **you could go back to where you were just before and try in a different way**.
+
 <p><img src="/assets/images/sigmund-By-tZImt0Ms-unsplash.jpg" alt="Game over by Sigmund" width="300"></p>
 
 That is more or less what version control does. You can save your work, and each time you save it, it creates a new **save point** that you can return to at a later point if you need it. You can also **carry on with different saved games simultaneously** to see how things would be if you did different things on each of them. Once you know which one you prefer, you can **either combine all of the different games** (called “branches”) you have saved to have a combination of all, with all the items you have acquired and all your achievements or just **opt to carry on with one of them**. But that is not all, it also allows you to **“play” remotely with other people on the same game and combine your efforts**.
@@ -32,7 +34,7 @@ So, were do we start?
 
 **GitHub** is a **hosting platform or website for developers all around the world to store their code and colaborate**. You will need a personal account to be able to use this platform, and within this account you will be able to see all your “repositories” (your projects or the folders they are stored in), the different “commits” (the points where you have saved your work) and who is working in that project with you amongst other many things.
 
-This article explains how to set up Git and GitHub: https://www.theodinproject.com/lessons/foundations-setting-up-git
+This article explains how to set up Git and GitHub: [https://www.theodinproject.com/lessons/foundations-setting-up-git]
 
 The best way to work with Git and GitHub is through your **command-line**. If you don’t have a clue of what that is, please visit the [basic](https://www.catfromspace.com/programming/learning/2022/08/03/using-the-command-line.html) and [intermediate](https://www.catfromspace.com/programming/learning/2022/08/25/using-the-command-line-intermediate.html) articles referring the command-line to get more familiarised with it.
 
@@ -56,7 +58,7 @@ Look at the image above.
 
 ## Git add, git commit and git push
 
-<p><img src="/assets/images/workflow1.png" alt="Example of basic workflow in git" width="800"></p>
+<p><img src="/assets/images/workflow1.png" alt="Example of basic workflow in git" width="900"></p>
 
 In the previous image we have four main spaces:
 
@@ -95,9 +97,9 @@ There are a few basic commands you want to know in order to work with branches:
 |-----|------|
 |`git branch`| Lists all the existing branches or create a new branch if we add a name|
 |`git branch -a` | Lists all the existing branches including the remote ones |
-| `git branch -d “name of the branch” | Delete a branch |
-|`git checkout “branchName” | You can switch to the desired branch |
-| `git checkout -b “newBranchName”| You can create a new branch and change to it |
+| `git branch -d “name of the branch”` | Delete a branch |
+|`git checkout “branchName”` | You can switch to the desired branch |
+| `git checkout -b “newBranchName”`| You can create a new branch and change to it |
 | `git merge “branchName` | Merges the changes you have made into the current branch|
 
 
@@ -112,7 +114,7 @@ There are many, many more commands we can use in Git, but I don’t want to make
 * You have lots of videos about these topics, which explain in a simple and entertaining way all the concepts you need to know. You have some [here](https://www.youtube.com/watch?v=RGOj5yH7evk&t=321s) and [here](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 
-<p><img src="/assets/images/arham-jain-OkiDTYxLo34-unsplash.jpg" alt="Blue flowers and branches by Arham Jain" width="300"></p>
+<p><img src="/assets/images/arham-jain-OkiDTYxLo34-unsplash.jpg" alt="Blue flowers and branches by Arham Jain" width="250"></p>
 
 
 I hope you enjoyed this post. Using Git can be a bit difficult at the beginning, but it soon becomes like a second nature, so please don’t give up too soon! 

@@ -34,7 +34,7 @@ So, were do we start?
 
 **GitHub** is a **hosting platform or website for developers all around the world to store their code and colaborate**. You will need a personal account to be able to use this platform, and within this account you will be able to see all your “repositories” (your projects or the folders they are stored in), the different “commits” (the points where you have saved your work) and who is working in that project with you amongst other many things.
 
-This article explains how to set up Git and GitHub: [https://www.theodinproject.com/lessons/foundations-setting-up-git]
+This article explains how to set up Git and GitHub: [https://www.theodinproject.com/lessons/foundations-setting-up-git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 
 The best way to work with Git and GitHub is through your **command-line**. If you don’t have a clue of what that is, please visit the [basic](https://www.catfromspace.com/programming/learning/2022/08/03/using-the-command-line.html) and [intermediate](https://www.catfromspace.com/programming/learning/2022/08/25/using-the-command-line-intermediate.html) articles referring the command-line to get more familiarised with it.
 
@@ -43,7 +43,7 @@ There are a few commands you will need to use constantly while using version con
 
 ## Find your repository and use git status
 
-Firstly, and it sounds very obvious but you will find yourself forgetting it all the time: **you need to be in the directory (or folder) that has been initialized as a repository and contains the project you are working on before you can work on it from the command line. **
+Firstly, and it sounds very obvious but you will find yourself forgetting it all the time: you need to be in the **directory (or folder) that has been initialized as a repository** and contains the project you are working on before you can work on it from the command line. 
 
 <p><img src="/assets/images/rightfolder.png" alt="Checking if you are in the right folder through the command line" width="600"></p>
 
@@ -100,7 +100,7 @@ There are a few basic commands you want to know in order to work with branches:
 | `git branch -d “name of the branch”` | Delete a branch |
 |`git checkout “branchName”` | You can switch to the desired branch |
 | `git checkout -b “newBranchName”`| You can create a new branch and change to it |
-| `git merge “branchName` | Merges the changes you have made into the current branch|
+| `git merge “branchName"` | Merges the changes you have made into the current branch|
 
 
 There are many, many more commands we can use in Git, but I don’t want to make this too complicated. If you would like to dive more into this topic, here are some interesting resources:

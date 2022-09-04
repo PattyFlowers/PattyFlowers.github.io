@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ruby methods"
+title:  "Python methods"
 date:   2022-09-01
-categories: Programming Learning Ruby
+categories: Programming Learning Python
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 
@@ -21,7 +21,6 @@ When a method admits "!" at the end (e.g. str.gsub!), it means that instead of r
 |`str.gsub(pattern, replacement)` -> New string| It works like `.sub` but admits more than one substitution. Admits "!".| `s.gsub(/[aeiou]/, '*')` -> "h*ll*"|
 |`str.chars` -> Array| Returns an array with each of the characters of a string as elements.| `"Hello".chars` -> ["H", "e", "l", "l", "o"]|
 |`str.split(pattern)` -> Array| It divides a string with the desired pattern and returns an array with each of the divisions as elements| `"Hello".split("")` -> ["H", "e", "l", "l", "o"]   `"My name is Catonaut".split(" ")` -> ["My", "name", "is", "Catonaut"] `"Hey-you".split("-")` -> ["Hey", "you"]
-|`str.scan(regex or string)` -> Array with matches | Iterates through string looking for matches and returns array with the matches| `a = "Hello world".scan(/\w+/)` -> ["Hello", "world]      `"Hello world".scan(/\w+/) {|w| print w }` -> "Hello"  "world"| 
 
 
 # Integer Methods
@@ -34,7 +33,7 @@ When a method admits "!" at the end (e.g. str.gsub!), it means that instead of r
 
 |Method| How it works | Examples |
 |-----|------|-------|
-|`[arr].each_with_index { |val,index| ... }` | For each element in the array, allows you to work with that element and its index| `a=[11,22,31,224,44].each_with_index { |val,index| puts "#{index} : #{val}" }` -> 0 : 11, 1 : 22...|
+|`[11,22,31,224,44].each_with_index { |val,index| puts "index: #{index} for #{val}" if val < 30}`
 
 # Hash Methods
 

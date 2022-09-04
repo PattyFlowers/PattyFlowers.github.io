@@ -6,7 +6,7 @@ categories: Programming Learning Python
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 
-After working on Ruby problems for a while and doing some "pair programming", I realized my pairing pal had made a fantastic list of Ruby methods, categorised by object. I had been considering doing something similar for a while, to have an easily accessible source to find this information, and I think it is about time!. I will update the content as I learn the different methos. If you are programming in Python, you will want to have a look at the Python methods post instead.
+After working on Python problems for a while and doing some "pair programming", I realized my pairing pal had made a fantastic list of Python methods, categorised by object. I had been considering doing something similar for a while, to have an easily accessible source to find this information, and I think it is about time!. I will update the content as I learn the different methos. If you are programming in Ruby, you will want to have a look at the Ruby methods post instead.
 
 Remember you can use `Ctrl + F` to find a particular method inside this post.
 

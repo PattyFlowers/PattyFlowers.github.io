@@ -35,12 +35,17 @@ When a method admits "!" at the end (e.g. str.gsub!), it means that instead of r
 |Method| How it works | Examples |
 |-----|------|-------|
 |`[arr].each_with_index { |val,index| ... }` | For each element in the array, allows you to work with that element and its index| `a=[11,22,31,224,44].each_with_index { |val,index| puts "#{index} : #{val}" }` -> 0 : 11, 1 : 22...|
+|`[arr].find { |element| condition? }` -> Element | Iterates through an array and returns the first match for which the condition evaluates true| `[1,2,3,4,5,6,7].find { |x| x.between?(2,4) }` -> 2|
+|`[arr].select { |element| condition? }` -> New array| Iterates through the elements of the array, and returns a new array with the elements that evaluate true.| `[1,2,3,4,5].select { |x| x.odd? }` -> [1, 3, 5]|
+
 
 # Hash Methods
 
 |Method| How it works | Examples |
 |-----|------|-------|
-|
+|`[hash].find { |key, value| condition? }` -> Element | Iterates through a hash and returns the first match for which the condition evaluates true| `{"a" => 1, "b" => 2, "c"=> 3}.find { |k, v| v.between?(2,3) }` -> {"b" => 2}|
+|`[hash].select { |key, value| condition? }` -> {"key"=>value}| Iterates through a hash and returns a hash with all the key-value pairs that evaluate true to the condition.| `{a: 1, b: 2, c: 3}.select {|k, v| v < 2}` -> {a: 1}|
+
 
 # Class Methods
 

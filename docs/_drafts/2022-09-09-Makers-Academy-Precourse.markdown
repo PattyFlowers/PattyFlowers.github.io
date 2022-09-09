@@ -27,6 +27,8 @@ The last thing I had to do to be selected was an interview, in which they asked 
 
 Once I finished the interview they offered me a position in their bootcamp, I was so excited!
 
+<p><img src="/assets/images/tim-mossholder-WE_Kv_ZB1l0-unsplash.jpg" alt="Love to learn by Tim Mossholder"></p>
+
 # Week 1
 
 On the initial week we worked on learning how to use the Command line (links to my posts about the content [here](https://www.catfromspace.com/programming/learning/2022/08/03/using-the-command-line.html) and [here](https://www.catfromspace.com/programming/learning/2022/08/25/using-the-command-line-intermediate.html)), [Git and Github](https://www.catfromspace.com/programming/learning/2022/08/31/version-control.html)), both reading through some theory and solving a little [command line mystery](https://github.com/PattyFlowers/clmystery), which I actually enjoyed a lot. 
@@ -54,3 +56,7 @@ The first thing we had to do was to go through our introduction to TDD (Test Dri
 The second part of this week was the most challenging of all the pre-course. It started as a little program that asked for the user to input the names of some students, which used most of the things we had learnt at a basic level. But then, as they asked us to change our program in this way and the other, the exercises got more and more challenging and, I am not going to lie, I got a bit stuck with a few of them. We ended up with quite a long program for what we were used to. Our finished code was able to take input for the students, their cohort and other things we would like to add, handle unsuitable input, save that list into a file of our choice, load the list from the file and add more students to that list amongst other things.
 
 The last section of this busy week was all about making our own and special Github CV. I have to say that thinking about how a bunch of Veterinary Surgeon skills could be transferrable to a Software Dev job was the most difficult part of all, but it also helped me organise my thoughts about how much I had learnt during the past 6 years and how those abilities could actually make me a good asset for a company that is looking to hire.
+
+<p><img src="/assets/images/markus-winkler-7iSEHWsxPLw-unsplash.jpg" alt="Resume by Markus Winkler"></p>
+
+And here I am, very excited about starting the full course and about to travel to London to stay there and attend the course in person during the first couple of weeks. Wish me luck!

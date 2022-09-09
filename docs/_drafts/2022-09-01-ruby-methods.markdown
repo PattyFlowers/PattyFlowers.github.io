@@ -23,6 +23,8 @@ When a method admits "!" at the end (e.g. str.gsub!), it means that instead of r
 |`str.split(pattern)` -> Array| It divides a string with the desired pattern and returns an array with each of the divisions as elements| `"Hello".split("")` -> ["H", "e", "l", "l", "o"]   `"My name is Catonaut".split(" ")` -> ["My", "name", "is", "Catonaut"] `"Hey-you".split("-")` -> ["Hey", "you"]
 |`str.scan(regex or string)` -> Array with matches | Iterates through string looking for matches and returns array with the matches| `a = "Hello world".scan(/\w+/)` -> ["Hello", "world]      `"Hello world".scan(/\w+/) {|w| print w }` -> "Hello"  "world"| 
 
+Formatting
+`str.center(width, padstr = ' ') ⇒ String`| Centers string. If width is greater than the length of the string, it returns a new string of length width with our string centered and surrounded by padstr (otherwise it returns the string). If padstr is not given, it uses spaces.| `"cat".center(20)` -> "      cat        " `"space".center(20, '#')` -> "#######space#######"|
 
 # Integer Methods
 
@@ -50,3 +52,56 @@ When a method admits "!" at the end (e.g. str.gsub!), it means that instead of r
 # Class Methods
 
 
+# File methods
+exist?()
+File.open("students.csv", "r")
+File.close  -> Very important to always close the files we have opened, or lots of bad things may happen!
+
+Example of writing data into a file from our program:
+```ruby
+def save_students
+  file = File.open("students.csv", "w") # We open (or create) our file "students.csv" with "write"("w") permission.
+  @students.each do |student|           # We iterate over a pre-created array @students
+    student_data = [student[:name], student[:cohort]]  # On every iteration we create a new array with the information
+    csv_line = student_data.join(",") # We join our array together with commas as separator
+    file.puts csv_line                # We insert out string into the file
+  end 
+  file.close                          # We close the file
+end
+```
+
+Example of loading data from a file:
+```ruby
+def load_students
+  file = File.open("students.csv", "r")  # We open a file "students.csv" with read permision.
+  file.readlines.each do |line|          # We read each line and iterate
+    name, cohort = line.chomp.split(',') # Paralel asignment - We split each line and assign the first value to name and the second to cohort.
+    @students << {name: name, cohort: cohort.to_sym} # Shovel operator (<<), we introduce this values into the array @students.
+  end
+  file.close # We close our file. SUPER IMPORTANT!!!
+end
+```
+
+Manually open and close a file.
+```ruby
+# Using new method
+f = File.new("test.txt", "r") # reading
+f = File.new("test.txt", "w") # writing
+f = File.new("test.txt", "a") # appending
+
+# Using open method
+f = open("test.txt", "r")
+
+# Remember to close files
+f.close
+# Automatically close a file using a block.
+```
+```ruby
+f = File.open("test.txt", "r") do |f|
+  # do something with file f
+  puts f.read # for example, read it
+end
+```
+
+# Command line methods
+ARGV.first # first argument from the command line

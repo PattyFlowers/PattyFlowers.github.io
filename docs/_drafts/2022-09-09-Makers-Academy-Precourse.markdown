@@ -6,7 +6,7 @@ categories: Programming Learning Story
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 
-<p><img src="/assets/images/cantonio-gabola-_wZaegHzdQc-unsplash.jpg" alt="Work and play by Cantonio Gabola"></p>
+<p><img src="/assets/images/cantonio-gabola-_wZaegHzdQc-unsplash.jpg" alt="Work and play by Cantonio Gabola" width="300"></p>
 
 A couple of years back the idea of a career change started to develop within me, but I wasn't too sure of how to do this. Since being a kid, I have been taught to follow a clear and structured guide of how to become a productive adult: Go to Primary school, go to High school, finish a degree at University, get as best grades as you can in all the previous, find a job and work in the same company for the rest of your life.
 But the current job industry, at least in our generation, is far from the idealized career that my family presented me with. I was a bit lost.
@@ -27,7 +27,7 @@ The last thing I had to do to be selected was an interview, in which they asked 
 
 Once I finished the interview they offered me a position in their bootcamp, I was so excited!
 
-<p><img src="/assets/images/tim-mossholder-WE_Kv_ZB1l0-unsplash.jpg" alt="Love to learn by Tim Mossholder"></p>
+<p><img src="/assets/images/tim-mossholder-WE_Kv_ZB1l0-unsplash.jpg" alt="Love to learn by Tim Mossholder"width="400"></p>
 
 # Week 1
 
@@ -57,6 +57,6 @@ The second part of this week was the most challenging of all the pre-course. It 
 
 The last section of this busy week was all about making our own and special Github CV. I have to say that thinking about how a bunch of Veterinary Surgeon skills could be transferable to a Software Dev job was the most difficult part of all, but it also helped me organise my thoughts about how much I had learnt during the past 6 years and how those abilities could actually make me a good asset for a company that is looking to hire.
 
-<p><img src="/assets/images/markus-winkler-7iSEHWsxPLw-unsplash.jpg" alt="Resume by Markus Winkler"></p>
+<p><img src="/assets/images/markus-winkler-7iSEHWsxPLw-unsplash.jpg" alt="Resume by Markus Winkler"width="300"></p>
 
 And here I am, very excited about starting the full course and about to travel to London to stay there and attend the course in person during the first couple of weeks. Wish me luck!

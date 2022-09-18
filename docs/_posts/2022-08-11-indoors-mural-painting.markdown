@@ -6,7 +6,7 @@ categories: Art
 tags: ["art", "hobbies"]
 ---
 
-<p><img src="/assets/images/hobbiton-mural.jpg" alt="Hobbiton mural by Patty Flowers" width="400"></p>
+<p><img src="/assets/images/hobbiton-mural.jpg" alt="Hobbiton mural by Patty Flowers" width="500"></p>
 
 This has been my "little" summer project. Since moving in with my partner to a new flat in January, the empty wall in the living room had been giving me lots of ideas. I wanted to paint something, to make it a home with personality. Then, I saw some fantastic art from [Trimcoast](https://www.instagram.com/trimcoast/?hl=en) and fell in love with it.
 

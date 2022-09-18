@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Indoors mural painting"
+title:  "Indoors mural painting: A hobbit summer project"
 date:   2022-08-11
 categories: Art
 tags: ["art", "hobbies"]

@@ -3,7 +3,7 @@ layout: post
 title:  "Indoors mural painting"
 date:   2022-08-11
 categories: Art
-tags: ["art" "hobbies"]
+tags: ["art", "hobbies"]
 ---
 
 <p><img src="/assets/images/hobbiton-mural.jpg" alt="Hobbiton mural by Patty Flowers" width="400"></p>

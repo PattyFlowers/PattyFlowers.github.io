@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting to and through the Makers Academy pre-course"
 date:   2022-09-09
-categories: Programming Learning Story
+categories: Makers
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 

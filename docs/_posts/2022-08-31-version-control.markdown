@@ -2,7 +2,7 @@
 layout: post
 title:  "Version control"
 date:   2022-08-31
-categories: Programming Learning
+categories: Programming
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 

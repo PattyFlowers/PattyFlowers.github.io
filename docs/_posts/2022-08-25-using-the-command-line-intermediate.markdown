@@ -2,7 +2,7 @@
 layout: post
 title:  "Using the command (or prompt) line with intermediate commands"
 date:   2022-08-25
-categories: Programming Learning
+categories: Programming
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 

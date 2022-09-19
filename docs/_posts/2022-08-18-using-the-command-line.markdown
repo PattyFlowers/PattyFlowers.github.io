@@ -2,7 +2,7 @@
 layout: post
 title:  "Using the command (or prompt) line for beginners"
 date:   2022-08-03
-categories: Programming Learning
+categories: Programming
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 

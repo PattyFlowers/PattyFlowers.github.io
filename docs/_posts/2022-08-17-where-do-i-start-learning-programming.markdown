@@ -2,7 +2,7 @@
 layout: post
 title:  "Where do I start learning programming?"
 date:   2022-08-03
-categories: Programming Learning
+categories: Programming
 tags: ["programming", "coding", "software development", "tech"]
 ---
 

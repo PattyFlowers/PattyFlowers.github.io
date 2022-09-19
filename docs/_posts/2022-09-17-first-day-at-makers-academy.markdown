@@ -2,7 +2,7 @@
 layout: post
 title:  "First day at Makers Academy: Exciting beginnings"
 date:   2022-09-18
-categories: Programming Learning Story
+categories: Makers
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 

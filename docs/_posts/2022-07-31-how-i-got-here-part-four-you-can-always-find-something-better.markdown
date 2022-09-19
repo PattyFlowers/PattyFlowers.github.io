@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I got here, part 4 - You can always find something better, but it’s also OK to take a step back and start all over again
-categories: General Story Veterinary
+categories: Story Veterinary
 tags: ["story", "mental health", "burnout", "veterinary"]
 ---
 <p><img src="/assets/images/tiredhedgehog.jpg" alt="Tired Hedgehog by Patty Flowers for Cat from Space" width="400"></p>

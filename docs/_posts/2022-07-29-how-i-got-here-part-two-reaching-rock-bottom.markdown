@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I got here, part 2 - Reaching rock bottom, asking for help and creating solutions
-categories: General Story Veterinary
+categories: Story Veterinary
 tags: ["story", "mental health", "burnout", "veterinary"]
 ---
 

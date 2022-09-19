@@ -2,7 +2,7 @@
 layout: post
 title:  "First week at Makers Academy: What did I learn?"
 date:   2022-09-19
-categories: Programming Learning Progress
+categories: Makers Progress
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 

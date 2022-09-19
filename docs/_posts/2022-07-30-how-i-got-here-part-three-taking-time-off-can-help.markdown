@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I got here, part 3 - Taking time off can help, but sometimes it is not enough
-categories: General Story Veterinary
+categories: Story Veterinary
 tags: ["story", "mental health", "burnout", "veterinary"]
 ---
 

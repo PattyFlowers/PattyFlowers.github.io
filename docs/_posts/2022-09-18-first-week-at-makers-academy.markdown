@@ -2,7 +2,7 @@
 layout: post
 title:  "First week at Makers Academy: What was it like?"
 date:   2022-09-18
-categories: Programming Learning Story
+categories: Makers
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 

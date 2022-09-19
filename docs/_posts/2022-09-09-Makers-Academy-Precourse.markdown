@@ -6,7 +6,7 @@ categories: Makers
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 
-<p><img src="/assets/images/antonio-gabola-_wZaegHzdQc-unsplash,jpg" alt="Work and play by Cantonio Gabola" width="300"></p>
+<p><img src="/assets/images/antonio-gabola-_wZaegHzdQc-unsplash.jpg" alt="Work and play by Cantonio Gabola" width="300"></p>
 
 A couple of years back the idea of a career change started to develop within me, but I wasn't too sure of how to do this. Since being a kid, I have been taught to follow a clear and structured guide of how to become a productive adult: Go to Primary school, go to High school, finish a degree at University, get as best grades as you can in all the previous, find a job and work in the same company for the rest of your life.
 But the current job industry, at least in our generation, is far from the idealized career that my family presented me with. I was a bit lost.

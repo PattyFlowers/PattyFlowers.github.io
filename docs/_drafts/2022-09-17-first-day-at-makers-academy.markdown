@@ -28,7 +28,8 @@ My favourite talk was the second one, given by Dana, Chief of Joy at Makers and 
 
 Something I found very curious was when she asked us who of us identified as introverts, ambiverts or extroverts. Of the 20 or so that form our cohort, only two identified as extroverts, which was quite shocking. I guess it makes sense for a career like that to attract people that recharge their energy by being on their own, but I guess I am so used to being surrounded by extroverts during school and uni that this seemed quite strange to me.
 
-<p><img src="/assets/images/bogdan-farca-CEx86maLUSc-unsplash.png" alt="Curious cat in window by Bogdan Farca" width="300"></p>
+<p><img src="/assets/images/bogdan-farca-CEx86maLUSc-unsplash.png" alt="Cat in window by Bogdan Farca" width="200"></p>
+
 
 Another fun detail was when Dana asked for volunteers (I raised my hand because why not) and then asked us what our favourite was animal and why. Once more, it was a question we were not expecting at all, but it made sense as it said a lot about ourselves and worked as an ice-breaker. Of course, I said the cat, for a lot of reasons, but one of them was that they are always clear about what they like and dislike and about what their needs and boundaries are, they are “honest” about their feelings and they live in the moment, enjoying themselves as much as they can.
 

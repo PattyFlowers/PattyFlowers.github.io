@@ -6,7 +6,7 @@ categories: Programming Learning Progress
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 
-<p><img src="/assets/images/saksham-gangwar-YVgOh8w1R4s-unsplash.jpg" alt="Four stormtroopers" width="300"></p>
+<p><img src="/assets/images/saksham-gangwar-YVgOh8w1R4s-unsplash.jpg" alt="Four stormtroopers" width="600"></p>
 
 Week five is over, and what a week it has been! 
 
@@ -38,7 +38,7 @@ On **Tuesday afternoon** I had a session with Dana, our wellbeing coach. It was 
 
 I spent the entirety of my **Wednesday** just wanting to cry in a corner, and that’s kind of what I did when I got home. A good cry and a vent with one of my best friends whom I was staying with. I realised I had been needing that for a couple of days already, and just pushed through because I thought it would be the best. I was starting to doubt I could ever become a software developer, I didn’t want to go back to the office, I just wanted to rest. Truth is, that night I finally had some proper sleep, and the following day I woke-up with a much more positive attitude, and knowing that whatever that day would be like, I would be able to deal with it and enjoy it.
 
-<p><img src="/assets/images/howling-red-2TIsPdIDr8I-unsplash.jpg" alt="Bar with a tired sign" width="200"></p>
+<p><img src="/assets/images/howling-red-2TIsPdIDr8I-unsplash.jpg" alt="Bar with a tired sign" width="300"></p>
 
 On **Thursday**, when I arrived to the office much better rested and happy, everything seemed to suddenly work. After spending four hours stuck on something the day before, it only took me about half an hour to debug all my code and get it running. When my colleagues arrived, we had most of our MVP covered and I suddenly felt like a heavy weight had been lifted from my shoulders.
 
@@ -54,14 +54,16 @@ In the **afternoon**, I had to go on a car journey to Bristol for a gig as part 
 
 Those few hours were **some of my favourite moments of the week**. There were four groups presenting their work, including us, and I think the other 1 or 2, that had been working mainly remotely, decided not to present. The first two groups that presented had done an amazing job, both on the front-end and back-end aspects as well as in making it entertaining and fun. The third group had also had a fun approach of making a “cheap” version of AirBnb, but unfortunately run into lots of different bugs during their presentation. Then, it was our turn, and instead of a live demo, we played the video that we had recorded in the morning, which you can see too:
 
+<center>
 <video controls width="500">
     <source src="/assets/images/video1549793111.mp4"
             type="video/mp4">
 </video>
+<center/>
 
 
 When I was watching our video with the rest of our cohort, I realised it was very clear that we had worked hard and also had fun while doing it. You could see we worked as a team and wanted everyone to have their part in the presentation. **I was very proud of our team and what we had achieved** in only a week’s worth, and glad to have had that experience, even if It was hard at times.
 
 After the presentations, a person from my group and other student hosted the **retrospective**. It was great fun to read all the messages of people having enjoyed working together, the difficulties they had encountered and how they were planning to improve them next time. It was the best possible way of finishing such an intense but enjoyable week.
 
-<p><img src="/assets/images/Week 5 Retro.png" alt="Retrospective board with sticky notes and messages" width="500"></p>
+<p><img src="/assets/images/Week 5 Retro.png" alt="Retrospective board with sticky notes and messages" width="800"></p>

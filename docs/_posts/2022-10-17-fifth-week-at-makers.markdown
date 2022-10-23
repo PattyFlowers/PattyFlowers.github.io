@@ -84,4 +84,5 @@ After the presentations, a person from my group and other student hosted the **r
 
 * **It is ok not to be ok.** It is fine if you don’t feel super cheerful every single day. It is normal to not be as talkative as others. It is alright to get frustrated or grumpy, as long as you communicate it to your team so that a solution or the appropriate support can be procured. We are not perfect, we are flawed and emotional beings and life happens around us and affect us in innumerable different ways, but we have the choice to help each other through it and make the team a safe space to talk and work at.
 
-<p><img src="/assets/brett-jordan-b1GG-qCCOiE-unsplash.jpg" alt="Two kittens hugging" width="500"></p>
+<p><img src="/assets/images/brett-jordan-b1GG-qCCOiE-unsplash.jpg" alt="Two kittens hugging" width="300"></p>
+

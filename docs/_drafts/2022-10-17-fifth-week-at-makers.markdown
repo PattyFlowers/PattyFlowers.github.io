@@ -67,3 +67,17 @@ When I was watching our video with the rest of our cohort, I realised it was ver
 After the presentations, a person from my group and other student hosted the **retrospective**. It was great fun to read all the messages of people having enjoyed working together, the difficulties they had encountered and how they were planning to improve them next time. It was the best possible way of finishing such an intense but enjoyable week.
 
 <p><img src="/assets/images/Week 5 Retro.png" alt="Retrospective board with sticky notes and messages" width="800"></p>
+
+
+## What did I learn?
+
+That working in a group can be both very fun and very challenging. You have to make sure you don’t put on your shoulders more work and pressure than you are expected or that it’s fair to. It is very easy sometimes to think that the whole weight of the project is on you, but actually, if things don’t go as well as you hoped, that’s a share responsibility. And the same happens if they go amazingly well.
+It is also very important to make sure everyone feels comfortable and listened to, and good communication, as usual, is one of the most useful tools we can use. Take the time to get to know your project-mates, take breaks together and have a chat about things that are not coding. Once you get to know them, pairing and communication will become much more natural.
+
+The value of having a project manager to distribute the work appropriately. It is so easy to underestimate the amount of work that you need to do and how much more it will take to do it when you are working within a team and everyone is trying to learn how to do so. Make lots of very, very small tickets and celebrate every achievement, no matter how tiny it is. Make sure everyone is able to do a bit of everything, no matter if someone in the team is great or totally sucks at it. It is important to learn and not get stuck with a particular part of the project for too long if not needed.
+
+Make sure your minimum viable product is reasonable, and always aim for less than you think you can get done in the given time. Problems and bugs will happen, you will get frustrated, and having something you can easily achieve in the first sprint will boost everyone’s motivation. There will always be time to add more features later on.
+
+It is ok not to be ok. It is fine if you don’t feel super cheerful every single day. It is normal to not be as talkative as others. It is alright to get frustrated or grumpy, as long as you communicate it to your team so that a solution or the appropriate support can be procured. We are not perfect, we are flawed and emotional beings and life happens around us and affect us in innumerable different ways, but we have the choice to help each other through it and make the team a safe space to talk and work at.
+
+<p><img src="/assets/brett-jordan-b1GG-qCCOiE-unsplash.jpg" alt="Two kittens hugging" width="500"></p>

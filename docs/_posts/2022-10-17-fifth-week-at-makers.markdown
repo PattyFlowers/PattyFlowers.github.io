@@ -54,14 +54,11 @@ In the **afternoon**, I had to go on a car journey to Bristol for a gig as part 
 
 Those few hours were **some of my favourite moments of the week**. There were four groups presenting their work, including us, and I think the other 1 or 2, that had been working mainly remotely, decided not to present. The first two groups that presented had done an amazing job, both on the front-end and back-end aspects as well as in making it entertaining and fun. The third group had also had a fun approach of making a “cheap” version of AirBnb, but unfortunately run into lots of different bugs during their presentation. Then, it was our turn, and instead of a live demo, we played the video that we had recorded in the morning, which you can see too:
 
-<div>
-<center>
+
 <video controls width="500">
     <source src="/assets/images/video1549793111.mp4"
             type="video/mp4">
 </video>
-<center/>
-</div>
 
 When I was watching our video with the rest of our cohort, I realised it was very clear that we had worked hard and also had fun while doing it. You could see we worked as a team and wanted everyone to have their part in the presentation. **I was very proud of our team and what we had achieved** in only a week’s worth, and glad to have had that experience, even if It was hard at times.
 

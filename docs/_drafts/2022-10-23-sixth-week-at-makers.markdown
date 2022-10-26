@@ -56,6 +56,3 @@ Meditating in the mornings helps, and this week we have had a short talk about s
 It has been a very nice week and I am looking forward to the next one and to learning some more JavaScript!
 
 <p><img src="/assets/nathan-dumlao-nBJHO6wmRWw-unsplash (1).jpg" alt="Cup of coffee" width="500"></p>
-
-
-

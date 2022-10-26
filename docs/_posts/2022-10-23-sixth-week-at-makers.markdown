@@ -29,7 +29,7 @@ I want to make clear that none of these tests have any scientific base, and they
 
 When I spoke to my mentor a few days later, she mentioned that in her group, there were **people that got really upset with that workshop**, and it showed that if you didn’t have much EQ at the time, it would probably help everyone be more mindful of the fact that people are very different and that **sometimes we need to adjust the way we communicate with someone and not take things so personally, trying to be mindful of others potential backgrounds and experiences**.
 
-<p><img src="/assets/nbrett-jordan-D44kHt8Ex14-unsplash.jpg" alt="Scrabble pieces forming the words 'Who are you?'" width="500"></p>
+<p><img src="/assets/images/nbrett-jordan-D44kHt8Ex14-unsplash.jpg" alt="Scrabble pieces forming the words 'Who are you?'" width="500"></p>
 
 # Retrospective
 
@@ -55,7 +55,7 @@ Meditating in the mornings helps, and this week we have had a short talk about s
 
 It has been a very nice week and I am looking forward to the next one and to learning some more JavaScript!
 
-<p><img src="/assets/nathan-dumlao-nBJHO6wmRWw-unsplash (1).jpg" alt="Cup of coffee" width="500"></p>
+<p><img src="/assets/images/nathan-dumlao-nBJHO6wmRWw-unsplash (1).jpg" alt="Cup of coffee" width="500"></p>
 
 
 

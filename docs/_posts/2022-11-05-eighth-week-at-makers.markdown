@@ -30,11 +30,13 @@ I forked the project (a clone of Facebook, Acebook, which had already a few feat
 
 The truth is, it didn’t really mattered that much, I was still very happy that I had a supportive and fun group to work with, and **that feeling of comfort and safety is what helped us thrive**. We were all on the same boat, none of us had a frikin’ clue of what was going on and that was ok, we felt way less alone on it than we had felt the previous week.
 
-We spent the **full first two days just drawing diagrams and trying to get our heads around how things were working**. We watched tons of videos from (Web Dev Simplified)[https://www.youtube.com/c/webdevsimplified], trying to understand how all the different components and technologies functioned, what the syntax meant and how the heck it made sense. Kyle, the guy that made those great videos, soon became boht a god and a meme between us.
+We spent the **full first two days just drawing diagrams and trying to get our heads around how things were working**. We watched tons of videos from [Web Dev Simplified](https://www.youtube.com/c/webdevsimplified), trying to understand how all the different components and technologies functioned, what the syntax meant and how the heck it made sense. Kyle, the guy that made those great videos, soon became boht a god and a meme between us.
+
+<p><img src="/assets/images/excalidrawowlpacas.png" alt="Our first diagram" width="700"></p>
 
 We made the initial diagram all together, trying to see how the elements of the back end connected with each other. The following day, we divided ourselves in pairs and carried on trying to deepen our understanding. I paired with my best friend from the course and, after some good progress, we ended up procrastinating and drawing some stuff on the diagram, including some copy-pasted Kyle faces. **I think I spent a whole hour laughing out laud.**
 
-<p><img src="/assets/images/Kyle.png" alt="Our lord and saviour, Kyle from WebDevSimplified" width="500"></p>
+<p><img src="/assets/images/Kyle.png" alt="Our lord and saviour, Kyle from WebDevSimplified" width="600"></p>
 
 On the second day, one of the members of our group, who seemed to have been **struggling to find some confidence and sense of self-worth** due to not fully understanding what the program was doing, dropped out of a call and didn’t come back until the day after. I was a bit worried as they had been in a pair of three with us and wasn’t sure if I had done or said something to upset them. On the stand-up of the following day, they apologised for vanishing and explained how he felt like they weren’t really understanding things well enough and felt uncomfortable moving on with things given that. **We applauded how brave it was to be open about their feelings like that, and the rest of the group had a bit of time to express our support and offer a safe space for not knowing stuff and growing together**. That was one of the best learning experiences of the week, and I think we all did well in **communicating and managing the situation appropriately and with empathy and kindness**.
 

@@ -28,6 +28,9 @@ We also decided on our **schedules**, on that we would have two stand-ups, one i
 
 I forked the project (a clone of Facebook, Acebook, which had already a few features implemented), and we all started having a look at it. There were quite a few technologies used that were completely new to us. To be honest, when I first read through it I understood the same as if I were looking at a tome of Chiense law.  **MongoDB, Mongoose, Express, React, Cypress…** How could we get to know all of those and implement new features in only a couple of weeks?
 
+<p><img src="/assets/images/db5daa50def7f69dbb21f2159d1de3b2.jpeg" alt="Dog over four cans of drink" width="400"></p>
+
+
 The truth is, it didn’t really mattered that much, I was still very happy that I had a supportive and fun group to work with, and **that feeling of comfort and safety is what helped us thrive**. We were all on the same boat, none of us had a frikin’ clue of what was going on and that was ok, we felt way less alone on it than we had felt the previous week.
 
 We spent the **full first two days just drawing diagrams and trying to get our heads around how things were working**. We watched tons of videos from (Web Dev Simplified)[https://www.youtube.com/c/webdevsimplified], trying to understand how all the different components and technologies functioned, what the syntax meant and how the heck it made sense. Kyle, the guy that made those great videos, soon became boht a god and a meme between us.
@@ -42,11 +45,15 @@ By the end of the third day, we started to overcome the initial shock to the sys
 
 On the last two days, **we made a lot of progress**. Some of us figured out how to upload pictures to the cloud from the app and display them on the page, some others worked on adding the user’s name to the posts, others on input validation or comments. They were all very challenging features for us, but we did very well and asked for help when needed.
 
-We decided we were going to give the site a special theme, something that would make people laugh at the demo-day, and ended-up deciding to go with **"Grumblebook"**, as a fun outlet for our software devs frustrations. People would Agree or Disagree with posts instead of like them, and all the error messages and submit buttons would be tailored accordingly. It sounded awesome and really helped making the process even more fun and interesting.
+<p><img src="/assets/images/58b.jpeg" alt="Dog meme with programming messages" width="400"></p>
+
+After sharing quite a lot of memes and fun, we decided we were going to give the site a special theme, something that would make people laugh at the demo-day, and ended-up deciding to go with **"Grumblebook"**, as a fun outlet for our software devs frustrations. People would Agree or Disagree with posts instead of like them, and all the error messages and submit buttons would be tailored accordingly. It sounded awesome and really helped making the process even more fun and interesting.
 
 We did all the stand-ups and retros, which we didn’t do during my last group project, and to be honest, I haven’t missed at all being on-site, as I feel in contact with all my group and not at all isolated, which is great.
 
 This week has been great fun, and I am looking forward to the next one and to see our final result!
+
+<p><img src="/assets/images/CUmf7xQW4AA48Q7.jpeg" alt="Dog on computer with message 'I don't know what I am doing'" width="500"></p>
 
 ## What did I learn?
 

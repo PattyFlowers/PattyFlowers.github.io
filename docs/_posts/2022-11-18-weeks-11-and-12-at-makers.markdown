@@ -6,8 +6,6 @@ categories: Programming Learning Progress
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]
 ---
 
-![Finish line by Ajoshua Hoehne](/assets/images/ajoshua-hoehne-Nsaqv7v2V7Q-unsplash.jpg "Image from Unsplash by Ajoshua Hoehne")
-
 Welcome to the culmination of the last four months of the Makers Academy bootcamp. It feels like ages and at the same time, I don’t know where that time went.
 
 The objective of our last two weeks was to create an application from scratch, using our own idea and whatever tech stack we wanted. 
@@ -82,7 +80,10 @@ We were done, and we couldn’t believe it. After that, we got treated to some p
 
 ## About our application
 
-![Video demonstrating the features of our application on an IOS phone](/assets/images/FN.mp4)
+<video controls width="300">
+    <source src="/assets/images/FN.mp4"
+            type="video/mp4">
+</video>
 
 List of features:
 * A user can **register** and **login**. Their **session** will stay open on their phone until they decide to logout, even if they close the application.
@@ -93,7 +94,7 @@ List of features:
 * A user can **emaill their MPs about a particular vote** by pressing the email button. This gives them direct access  to their email client and will be presented with a template, including their MP email address, the name of the division as a subject and a draft email.
 * A user can **“Approve” or “Disapprove”** a vote and see a percentage of their MP’s approvals.
 
-<p><img src="/assets/images/features.png" alt="A diagram of some of our features" width="400"></p>
+<p><img src="/assets/images/features.png" alt="A diagram of some of our features" width="600"></p>
 
 Things we would have liked to do if we had more time (and may still do in the future):
 * We were not particularly proud about the **code quality** and **lack of tests**. Although we initially decided we wanted to use TDD, we soon found out that React Native is not as easy to test as we expected. Part of our team spent two days trying to figure out how to do it unsuccessfully, and given the time pressure, we had to decide between having out MVP running by the end of those two weeks or having a small amount of code that was good quality but didn’t have enough functionality. 

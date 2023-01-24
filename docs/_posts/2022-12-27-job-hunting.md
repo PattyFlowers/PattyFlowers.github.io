@@ -22,7 +22,7 @@ If you are trying to land your first job in tech, I would advise you to make sur
 During this session, we were put in groups to discuss how an application would work behind the curtain, if the user is able to add, delete and modify a list of books and authors, and if they are also able to see the weather on the same screen, using an external API. We were also asked to make a diagram and give a brief explanation. Once more, I don’t think we had quite realized how important it is to be able to describe how an application works, from the user interface to the database, and I think it was a great exercise to review these contents, and another very essential thing to know for an interview.
 This is the diagram my group and me made for the occasion:
 
-<p><img src="/assets/images/pic.jpeg.png" alt="Diagram of how an application works" width="500"></p>
+<p><img src="/assets/images/pic.jpeg.png" alt="Diagram of how an application works" width="700"></p>
 
 # Third workshop: CV
 Our third session was a review of how to make an impressive CV. There were a lot of interesting tips in order to make a Github CV that would catch the eye of out potential employers.
@@ -39,7 +39,7 @@ One of the points our coaches made, was that it was crucial to scan a job advert
 In this workshop, we were given a table that we could fill in with paragraphs for our cover letters. On the right, we would have the skill or tech that a particular job might require, and on the right, one or more paragraphs covering why we had that skill or knew that technology, and some “proof” of it, either through a previous job or a Makers experience. This would make, after a while, writing cover letters a very quick and almost mechanical process, in which we could pick up different paragraphs and change small things to adjust them to the job we are applying for.
 
 
-<p><img src="/assets/images/marten-newhall-uAFjFsMS3YY-unsplash.jpg" alt="Man with a magnifying glass in front of his face" width="400"></p>
+<p><img src="/assets/images/marten-newhall-uAFjFsMS3YY-unsplash.jpg" alt="Man with a magnifying glass in front of his face" width="500"></p>
 
 # Coaching sessions
 During the job-hunting time we also have access to several kinds of coaching sessions:
@@ -54,7 +54,7 @@ Job-hunting can be a lonely, unrewarding and unexpectedly hard task, in which yo
 
 Most recruiters and companies receive so many applications that will not bother replying to all of them. You may send several dozens of applications in a week and not receive any replies at all. It is essential to try and be kind to yourself, remember that you are good at what you do, you just need a chance to prove it, and it will come.
 
-<p><img src="/assets/images/clem-onojeghuo-fY8Jr4iuPQM-unsplash.jpg" alt="For hire sign" width="400"></p>
+<p><img src="/assets/images/clem-onojeghuo-fY8Jr4iuPQM-unsplash.jpg" alt="For hire sign" width="500"></p>
 
 I would say that if you have just finished Makers Academy, your best chances for finding a job will be by keeping an eye on their job board (Makers Hub) and applying to the jobs they post, or through the Careers Fair that takes place every three months. The companies that announce their positions there already know Makers graduates and know what we can do, and will be willing to give you an opportunity to prove yourself through a tech test or an interview.
 
@@ -70,6 +70,6 @@ Something else I would recommend is to make a list of companies you would love t
 If you are at this point in your career in tech, I wish you all the luck in the world. Be patient and take care of your health and wellbeing in the meantime, reach out if things get too much for you. You are enough and everything will be alright <3
 
 
-<p><img src="/assets/images/estudio-bloom-KvkvaFlZdSg-unsplash.jpg" alt="Spilled drink with the words I am doing my best" width="400"></p>
+<p><img src="/assets/images/estudio-bloom-KvkvaFlZdSg-unsplash.jpg" alt="Spilled drink with the words I am doing my best" width="500"></p>
 
 

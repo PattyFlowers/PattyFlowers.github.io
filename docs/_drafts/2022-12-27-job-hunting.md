@@ -38,6 +38,9 @@ One of the points our coaches made, was that it was crucial to scan a job advert
 
 In this workshop, we were given a table that we could fill in with paragraphs for our cover letters. On the right, we would have the skill or tech that a particular job might require, and on the right, one or more paragraphs covering why we had that skill or knew that technology, and some “proof” of it, either through a previous job or a Makers experience. This would make, after a while, writing cover letters a very quick and almost mechanical process, in which we could pick up different paragraphs and change small things to adjust them to the job we are applying for.
 
+
+<p><img src="/assets/images/marten-newhall-uAFjFsMS3YY-unsplash.jpg" alt="Man with a magnifying glass in front of his face" width="400"></p>
+
 # Coaching sessions
 During the job-hunting time we also have access to several kinds of coaching sessions:
 * **General coaching sessions**: We are entitled to a few of these, and can use them to discuss any aspects of the job-hunting process and ask for advice or support on any areas we feel we are struggling with.
@@ -49,9 +52,9 @@ Finding the first job within this industry is not easy, there are not that many 
 
 Job-hunting can be a lonely, unrewarding and unexpectedly hard task, in which you can find yourself putting lots and lots of effort in and not feeling heard or seen. As you can see, there is support everywhere, but you need to constantly remind yourself that it is there for you, and you are not any less strong for asking for help. 
 
-
 Most recruiters and companies receive so many applications that will not bother replying to all of them. You may send several dozens of applications in a week and not receive any replies at all. It is essential to try and be kind to yourself, remember that you are good at what you do, you just need a chance to prove it, and it will come.
 
+<p><img src="/assets/images/clem-onojeghuo-fY8Jr4iuPQM-unsplash.jpg" alt="For hire sign" width="400"></p>
 
 I would say that if you have just finished Makers Academy, your best chances for finding a job will be by keeping an eye on their job board (Makers Hub) and applying to the jobs they post, or through the Careers Fair that takes place every three months. The companies that announce their positions there already know Makers graduates and know what we can do, and will be willing to give you an opportunity to prove yourself through a tech test or an interview.
 
@@ -64,5 +67,9 @@ I have tried several other websites including LinkedIn, TotalJobs, Indeed, Reed�
 
 Something else I would recommend is to make a list of companies you would love to work for, whether it is because of the tech they use or the product they work on, and then look for jobs on their websites. You can even email them explaining why you would be delighted to be able to work for them in particular and to please keep your email in their list for future positions. I think you are way more likely to get a job if you show genuine interest for what their company does.
 
-If you are at this point in your career in tech, I wish you all the luck in the world. Be patient and take care of your health and wellbeing in the meantime, reach out if things get too much for you. Everything will be alright <3
+If you are at this point in your career in tech, I wish you all the luck in the world. Be patient and take care of your health and wellbeing in the meantime, reach out if things get too much for you. You are enough and everything will be alright <3
+
+
+<p><img src="/assets/images/estudio-bloom-KvkvaFlZdSg-unsplash.jpg" alt="Spilled drink with the words I am doing my best" width="400"></p>
+
 

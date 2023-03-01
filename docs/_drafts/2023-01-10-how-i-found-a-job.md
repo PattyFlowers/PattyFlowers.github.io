@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finding a job"
+title:  "How I found a job"
 date:   2023-01-10
 categories: Programming Learning Progress
 tags: ["programming", "coding", "software development", "tech", "Makers Academy"]

@@ -1,5 +1,10 @@
-# Http request with dynamic parameters and headers in Java (using okHttp)
-
+---
+layout: post
+title:  "Http request with dynamic parameters and headers in Java (using okHttp)"
+date:   2023-03-20
+categories: Programming Learning Progress
+tags: ["programming", "coding", "software development", "tech"]
+---
  
 <p><img src="/assets/images/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg" alt="Sketch of three webpages" width="400"></p>
 
@@ -19,7 +24,7 @@ This would be a typical okHttp request with hardcoded headers and params:
 
  
 
-```
+```java
 
 public void loginToAPI(username, password)
       throws Exception{
@@ -50,7 +55,7 @@ In the following code, I have created a method that allows you to set dynamic pa
 
  
 
-```
+```java
 
 public String makeRequest(HashMap<String, 
                           String> requestParams, 
@@ -110,7 +115,7 @@ public String makeRequest(HashMap<String,
 Now, let’s talk about parsing our response, for which I added this handy method to my HttpClient class:
 
  
-```
+```java
     protected String parse(String responseBody, String key) {
         JSONObject json = new JSONObject(responseBody);
 

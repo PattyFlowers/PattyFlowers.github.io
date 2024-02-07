@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Pre-commit git hooks"
+date:   2024-02-07
+categories: Programming
+tags: ["programming", "coding", "software development", "tech"]
+---
+
 # Pre-commit git hooks
 
 Sometimes, we may need to run our services locally with a series of properties that we don't want to accidentally commit to our repositories for being sensitive. Whilst looking for a 
